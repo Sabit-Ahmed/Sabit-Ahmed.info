@@ -14,7 +14,7 @@ export default {
 
 <style scoped>
 .head{
-  font-size: 2.5vw;
+  font-size: 2em;
   background-image: linear-gradient(to right, #080842, #242469, #8181D6);
   color: white;
   padding-top: 60px;  /*change*/
