@@ -45,7 +45,7 @@
     <p> Intern </p>
     <table class="table">
       <tbody>
-        <tr>
+        <tr class="row">
         <td class="col-md-2">October 2020 - Present</td>
         <td class="col-md-8">
             <ul>
@@ -62,7 +62,7 @@
     <p> Trainee </p>
     <table class="table">
       <tbody>
-        <tr>
+        <tr class="row">
         <td class="col-md-2">June 2020 - Present</td>
         <td class="col-md-8">
             <ul>
@@ -78,7 +78,7 @@
     <p> Student Member </p>
     <table class="table">
       <tbody>
-        <tr>
+        <tr class="row">
         <td class="col-md-2">December 2019 - Present</td>
         <td class="col-md-8">
             <ul>
@@ -93,7 +93,7 @@
     <p> Research Candidate </p>
     <table class="table">
       <tbody>
-        <tr>
+        <tr class="row">
         <td class="col-md-2">August 2019 - Present</td>
         <td class="col-md-8">
             <ul>
@@ -110,7 +110,7 @@
     <p> Secretary (IT) </p>
     <table class="table">
       <tbody>
-        <tr>
+        <tr class="row">
         <td class="col-md-2">March 2018 - Present</td>
         <td class="col-md-8">
             <ul>
@@ -127,7 +127,7 @@
     <p> Campus Representative </p>
     <table class="table">
       <tbody>
-        <tr>
+        <tr class="row">
         <td class="col-md-2">April 2018 – April 2019</td>
         <td class="col-md-8">
             <ul>
@@ -144,7 +144,7 @@
     <p> Member </p>
     <table class="table">
       <tbody>
-        <tr>
+        <tr class="row">
         <td class="col-md-2">February 2018 - Present</td>
         <td class="col-md-8">
             <ul>
@@ -167,10 +167,10 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .myClass{
-    background-color: #eee;
-    margin: 10px 10px;
-    padding: 20px 30px;
-    text-align: justify;
+  background-color: #eee;
+  margin: 10px 10px;
+  padding: 20px 30px;
+  text-align: justify;
 }
 
 </style>
