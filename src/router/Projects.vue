@@ -15,7 +15,7 @@
           <strong> Timeline: </strong> October 2020.<br>
           <strong> Language and Tools: </strong> Vue CLI, vue Router, HTML, CSS and Bootstrap.<br>
           <strong> GitHub Repository: </strong> 
-          <a href="https://github.com/Sabit-Ahmed/vue-folio">https://github.com/Sabit-Ahmed/vue-folio</a>
+          <a href="https://github.com/Sabit-Ahmed/Sabit-Ahmed.info">https://github.com/Sabit-Ahmed/Sabit-Ahmed.info</a>
         </div>
         <br>
         <li><strong> Containerized CRUD API </strong></li>
