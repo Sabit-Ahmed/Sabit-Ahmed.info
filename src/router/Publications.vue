@@ -10,7 +10,7 @@
             pp. 921-924. IEEE, 2020.<br>
             <strong> Conference Title: </strong>2020 IEEE Region 10 Symposium (TENSYMP)<br>
             <strong> Date of Conference: </strong>5-7 June 2020.<br>
-            <strong> DOI: </strong><a href="https://ieeexplore.ieee.org/document/9230745">10.1109/TENSYMP50017.2020.9230745</a>
+            <strong> DOI: </strong><a href="http://dx.doi.org/10.1109/tensymp50017.2020.9230745">10.1109/TENSYMP50017.2020.9230745</a>
         </li>
     </ul>
     <br>
