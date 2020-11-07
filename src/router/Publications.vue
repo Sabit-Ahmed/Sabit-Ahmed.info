@@ -7,9 +7,9 @@
         <li>
             Afrida Rahman, Sabit Ahmed, Julia Rahman, and Md Al Mehedi Hasan. 
             "Prediction of Formylation Sites by Incorporating Sequence Coupling into General PseAAC."<br>
-            <strong> Conference Title: </strong>IEEE Region 10 Symposium (TENSYMP) 2020<br>
-            <strong> Status: </strong>Accepted.<br>
-            <strong> DOI: </strong>Still in process.
+            <strong> Conference Title: </strong>2020 IEEE Region 10 Symposium (TENSYMP)<br>
+            <strong> Date of Conference: </strong>5-7 June 2020.<br>
+            <strong> DOI: </strong>10.1109/TENSYMP50017.2020.9230745
         </li>
     </ul>
     <br>

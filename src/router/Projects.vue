@@ -80,7 +80,7 @@
             This project aims to identify protein's post-translational modifications both individually and 
             simultaneously with higher efficacy. We have worked on Formylation, Malonylation, Phosphoglycerylation, 
             Glycation, Acetylation, Crotonylation, Methylation, Succinylation, and Glutarylation so far. We have 
-            developed two single label predictors such as FormylPred and predPhogly-Site for Formylation and 
+            developed two single label predictors such as Formyl_Pred and predPhogly-Site for Formylation and 
             Phosphoglycerylation site prediction and two multi-label predictors, one is predML-Site for predicting 
             Acetylation, Crotonylation, Methylation, and Succinylation simultaneously and the other one is still in 
             process. More information could be found in the publications section.
