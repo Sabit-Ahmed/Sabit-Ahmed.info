@@ -9,7 +9,7 @@
             "Prediction of Formylation Sites by Incorporating Sequence Coupling into General PseAAC."<br>
             <strong> Conference Title: </strong>2020 IEEE Region 10 Symposium (TENSYMP)<br>
             <strong> Date of Conference: </strong>5-7 June 2020.<br>
-            <strong> DOI: </strong><a href="10.1109/TENSYMP50017.2020.9230745">10.1109/TENSYMP50017.2020.9230745</a>
+            <strong> DOI: </strong><a href="https://ieeexplore.ieee.org/document/9230745">10.1109/TENSYMP50017.2020.9230745</a>
         </li>
     </ul>
     <br>
