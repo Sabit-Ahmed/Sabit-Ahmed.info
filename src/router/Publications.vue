@@ -5,8 +5,9 @@
     <h4> Conference: </h4>
     <ul>
         <li>
-            Afrida Rahman, Sabit Ahmed, Julia Rahman, and Md Al Mehedi Hasan. 
-            "Prediction of Formylation Sites by Incorporating Sequence Coupling into General PseAAC."<br>
+            Rahman, Afrida, Sabit Ahmed, Julia Rahman, and Md Al Mehedi Hasan. "Prediction of Formylation Sites by 
+            Incorporating Sequence Coupling into General PseAAC." In 2020 IEEE Region 10 Symposium (TENSYMP), 
+            pp. 921-924. IEEE, 2020.<br>
             <strong> Conference Title: </strong>2020 IEEE Region 10 Symposium (TENSYMP)<br>
             <strong> Date of Conference: </strong>5-7 June 2020.<br>
             <strong> DOI: </strong><a href="https://ieeexplore.ieee.org/document/9230745">10.1109/TENSYMP50017.2020.9230745</a>
@@ -16,7 +17,7 @@
     <h4> Journal Articles: </h4>
     <ul>
         <li>
-            Sabit Ahmed, Afrida Rahman, Md Al Mehedi Hasan, Julia Rahman, Md. Khaled Ben Islam, and Shamim Ahmad. 
+            Ahmed, Sabit, Afrida Rahman, Md Al Mehedi Hasan, Julia Rahman, Md. Khaled Ben Islam, and Shamim Ahmad. 
             "predML-Site: Predicting Multiple Lysine PTM Sites with Optimal Feature Representation and Data Imbalance 
             Minimization."<br>
             <strong> Journal Title: </strong>IEEE/ACM Transactions on Computational Biology and Bioinformatics<br>
@@ -25,7 +26,7 @@
         </li>
         <br>
         <li>
-            Sabit Ahmed, Afrida Rahman, Md Al Mehedi Hasan, Julia Rahman, Md. Khaled Ben Islam, and Shamim Ahmad. 
+            Ahmed, Sabit, Afrida Rahman, Md Al Mehedi Hasan, Julia Rahman, Md. Khaled Ben Islam, and Shamim Ahmad. 
             "predPhogly-Site: Predicting phosphoglycerylation sites by incorporating probabilistic sequence-coupling 
             information into PseAAC and addressing data imbalance."<br>
             <strong> Journal Title: </strong>PLOS ONE<br>
