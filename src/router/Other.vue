@@ -17,23 +17,24 @@
         <li> Movies </li>
     </ul>
     <br>
+    <h4> References: </h4>
     <div class="grid-container">
-      <h4> References: </h4>
+      
       <div class="grid-child-1">
-        <li><strong> Dr. Md Al Mehedi Hasan </strong></li>
+        <strong> Dr. Md Al Mehedi Hasan </strong>
           <p>Postdoctoral Researcher</p>
           <p>University of Aizu, Japan</p>
           <p>Email: mehedi_ru@yahoo.com</p>
           <p>Phone: +8801712205360</p>
 
-          <li><strong> Nowfel Mashnoor </strong></li>
+          <strong> Nowfel Mashnoor </strong>
           <p>Sr. Software Engineer</p>
           <p>Evident BD Ltd.</p>
           <p>Email: nmmashnoor@gmail.com</p>
           <p>Phone: +8801826636115</p>
       </div>
       <div class="grid-child-2">
-        <li><strong> Dr. Md. Nazrul Islam Mondal </strong></li>
+        <strong> Dr. Md. Nazrul Islam Mondal </strong>
           <p>Professor</p>
           <p>Department of CSE</p>
           <p>Rajshahi University of Engineering and Technology</p>
