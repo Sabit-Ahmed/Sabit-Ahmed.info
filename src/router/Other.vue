@@ -21,13 +21,13 @@
     <div class="grid-container">
       
       <div class="grid-child-1">
-        <strong> Dr. Md Al Mehedi Hasan </strong>
+        <strong> Dr. Md Al Mehedi Hasan </strong><br>
           Postdoctoral Researcher<br>
           University of Aizu, Japan<br>
           Email: mehedi_ru@yahoo.com<br>
           Phone: +8801712205360<br>
           <br>
-          <strong> Nowfel Mashnoor </strong>
+          <strong> Nowfel Mashnoor </strong><br>
           Sr. Software Engineer<br>
           Evident BD Ltd.<br>
           Email: nmmashnoor@gmail.com<br>
@@ -35,7 +35,7 @@
       </div>
 
       <div class="grid-child-2">
-        <strong> Dr. Md. Nazrul Islam Mondal </strong>
+        <strong> Dr. Md. Nazrul Islam Mondal </strong><br>
           Professor<br>
           Department of CSE<br>
           Rajshahi University of Engineering and Technology<br>
