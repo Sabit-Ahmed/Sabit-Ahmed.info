@@ -20,8 +20,8 @@
             Ahmed, Sabit, Afrida Rahman, Md Al Mehedi Hasan, Julia Rahman, Md. Khaled Ben Islam, and Shamim Ahmad. 
             "predML-Site: Predicting Multiple Lysine PTM Sites with Optimal Feature Representation and Data Imbalance 
             Minimization."<br>
-            <strong> Journal Title: </strong>IEEE/ACM Transactions on Computational Biology and Bioinformatics<br>
-            <strong> Status: </strong>Submitted.<br>
+            <strong> Journal Title: </strong>IEEE/ACM Transactions on Computational Biology and Bioinformatics (I.F.: 3.015)<br>
+            <strong> Status: </strong>Under Revision.<br>
             <!-- <strong> DOI: </strong>Still in process. -->
         </li>
         <br>
@@ -29,7 +29,7 @@
             Ahmed, Sabit, Afrida Rahman, Md Al Mehedi Hasan, Julia Rahman, Md. Khaled Ben Islam, and Shamim Ahmad. 
             "predPhogly-Site: Predicting phosphoglycerylation sites by incorporating probabilistic sequence-coupling 
             information into PseAAC and addressing data imbalance."<br>
-            <strong> Journal Title: </strong>PLOS ONE<br>
+            <strong> Journal Title: </strong>PLOS ONE (I.F.: 2.74)<br>
             <strong> Status: </strong>Under Revision.<br>
             <!-- <strong> DOI: </strong>Still in process. -->
         </li>

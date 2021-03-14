@@ -2,13 +2,13 @@
   <div class="col-md-8 myClass">
     <h3><strong>Overview</strong></h3>
     <p>
-    A final year student of Computer Science and Engineering who has conducted researches on identifying 
+    A recently graduated student of Computer Science and Engineering who has conducted researches on identifying 
     different types of Post-Translational Modifications (PTM). Deep expertise and hands on experience in 
     analyzing, designing, developing and integrating Front-End & Back-End based applications. Also Experienced 
     Secretary with a demonstrated 
-    history of working in the Nonprofit Organizations. 1+ years of research experience in Computational 
+    history of working in Nonprofit Organizations. 1+ years of research experience in Computational 
     Proteomics, Protein Sequence Analysis, Computational Biology, Data Preprocessing, Feature Engineering, Machine Learning, 
-    Multi-Label Metric System, etc. Research interest includes Bioinformatics, Data Science, and 
+    Multi-Label Metric Systems, etc. Research interest includes Bioinformatics, Data Science, and 
     Artificial Intelligence.
     </p>
     <br>

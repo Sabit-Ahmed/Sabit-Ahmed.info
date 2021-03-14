@@ -275,6 +275,11 @@
       <li> Certificate of appreciation for a successful presentation on “Prediction of Formylation Sites by 
         Incorporating Sequence Coupling into General PseAAC” </li>
     </ul>
+
+    <strong> Others- </strong>
+    <ul>
+      <li> Numerous certificates on various extra-curricular activities i.e. writing, sports, etc. </li>
+    </ul>
   </div>
 </template>
 

@@ -10,10 +10,10 @@
           <strong> Project Details: </strong>
             A basic portfolio website built with Vue.js. The concept 'Single Page Application' (SPA) was implemented
             while playing around with this progressive JavaScript framework. Being a static website, the scope was 
-            limited. But you could find out that your browser does not require any page reloading in this website.
+            limited. But you could find out that your browser does not require any page reloading on this website.
           <br>
           <strong> Timeline: </strong> October 2020.<br>
-          <strong> Language and Tools: </strong> Vue CLI, vue Router, HTML, CSS and Bootstrap.<br>
+          <strong> Language and Tools: </strong> Vue CLI, vue Router, HTML, CSS, and Bootstrap.<br>
           <strong> GitHub Repository: </strong> 
           <a href="https://github.com/Sabit-Ahmed/Sabit-Ahmed.info">https://github.com/Sabit-Ahmed/Sabit-Ahmed.info</a>
         </div>
@@ -96,6 +96,10 @@
             <li>
               <strong> predPhogly-Site: </strong>
               <a href="http://103.99.176.239/predML-Site">http://103.99.176.239/predPhogly-Site</a>
+            </li>
+            <li>
+              <strong> GitHub Repository: </strong>
+              <a href="https://github.com/Sabit-Ahmed/predPhogly-Site">https://github.com/Sabit-Ahmed/predPhogly-Site</a>
             </li>
           </ul>
         </div>

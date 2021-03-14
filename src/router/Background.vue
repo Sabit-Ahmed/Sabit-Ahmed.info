@@ -12,9 +12,9 @@
       <tbody>
         <tr>
         <th scope="row">1</th>
-        <td>2015 - Present</td>
+        <td>2015 - 2021</td>
         <td>
-            B.Sc. in Computer Science & Engineering<br>
+            B.Sc in Computer Science & Engineering<br>
             Rajshahi University of Engineering & Technology<br>
             Rajshahi-6204, Bangladesh
         </td>
@@ -41,12 +41,28 @@
     </table>
     <br><br>
     <h3><strong>Professional Background</strong></h3>
+    <h4>MyMedicalHub Bangladesh LTD.</h4>
+    <p> Jr. AI Developer </p>
+    <table class="table">
+      <tbody>
+        <tr class="row">
+        <td class="col-md-2">February 2021 - Present</td>
+        <td class="col-md-8">
+            <ul>
+              <li> Building cross-platform applications. </li>
+              <li> Getting introduced to musculoskeletal health solutions.</li>
+            </ul>
+        </td>
+        </tr>
+      </tbody>
+    </table>
+
     <h4>Banglamedic</h4>
     <p> Intern </p>
     <table class="table">
       <tbody>
         <tr class="row">
-        <td class="col-md-2">October 2020 - Present</td>
+        <td class="col-md-2"> October 2020 </td>
         <td class="col-md-8">
             <ul>
               <li> Working on data collecting and preprocessing tasks. </li>
@@ -63,7 +79,7 @@
     <table class="table">
       <tbody>
         <tr class="row">
-        <td class="col-md-2">June 2020 - Present</td>
+        <td class="col-md-2">June 2020 - September 2020</td>
         <td class="col-md-8">
             <ul>
               <li> Mastering python core, data visualization, rest API, statistics, exploratory data analysis, 
