@@ -22,24 +22,25 @@
       
       <div class="grid-child-1">
         <strong> Dr. Md Al Mehedi Hasan </strong>
-          <p>Postdoctoral Researcher</p>
-          <p>University of Aizu, Japan</p>
-          <p>Email: mehedi_ru@yahoo.com</p>
-          <p>Phone: +8801712205360</p>
-
+          Postdoctoral Researcher<br>
+          University of Aizu, Japan<br>
+          Email: mehedi_ru@yahoo.com<br>
+          Phone: +8801712205360<br>
+          <br>
           <strong> Nowfel Mashnoor </strong>
-          <p>Sr. Software Engineer</p>
-          <p>Evident BD Ltd.</p>
-          <p>Email: nmmashnoor@gmail.com</p>
-          <p>Phone: +8801826636115</p>
+          Sr. Software Engineer<br>
+          Evident BD Ltd.<br>
+          Email: nmmashnoor@gmail.com<br>
+          Phone: +8801826636115<br>
       </div>
+
       <div class="grid-child-2">
         <strong> Dr. Md. Nazrul Islam Mondal </strong>
-          <p>Professor</p>
-          <p>Department of CSE</p>
-          <p>Rajshahi University of Engineering and Technology</p>
-          <p>Email: mondal@cse.ruet.ac.bd</p>
-          <p>Phone: +8801720662278</p>
+          Professor<br>
+          Department of CSE<br>
+          Rajshahi University of Engineering and Technology<br>
+          Email: mondal@cse.ruet.ac.bd<br>
+          Phone: +8801720662278<br>
       <div>
     </div>
   </div>
