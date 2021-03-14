@@ -24,13 +24,13 @@
         <strong> Dr. Md Al Mehedi Hasan </strong><br>
           Postdoctoral Researcher<br>
           University of Aizu, Japan<br>
-          Email: mehedi_ru@yahoo.com<br>
+          Email: <a href = "mailto: mehedi_ru@yahoo.com">mehedi_ru@yahoo.com</a><br>
           Phone: +8801712205360<br>
           <br>
           <strong> Nowfel Mashnoor </strong><br>
           Sr. Software Engineer<br>
           Evident BD Ltd.<br>
-          Email: nmmashnoor@gmail.com<br>
+          Email: <a href = "mailto: nmmashnoor@gmail.com">nmmashnoor@gmail.com</a><br>
           Phone: +8801826636115<br>
       </div>
 
@@ -39,7 +39,7 @@
           Professor<br>
           Department of CSE<br>
           Rajshahi University of Engineering and Technology<br>
-          Email: mondal@cse.ruet.ac.bd<br>
+          Email: <a href = "mailto: mondal@cse.ruet.ac.bd">mondal@cse.ruet.ac.bd</a><br>
           Phone: +8801720662278<br>
       <div>
     </div>
