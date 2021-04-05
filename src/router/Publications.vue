@@ -32,8 +32,8 @@
             (April 1, 2021): e0249396. doi:10.1371/journal.pone.0249396.<br>
             <strong> Journal Title: </strong>PLOS ONE (I.F.: 2.74)<br>
             <strong> Date of Publication: </strong>01 April 2021.<br>
-            <strong> DOI: </strong><a href="https://doi.org/10.1371/journal.pone.0249396">10.1371/journal.pone.0249396</a>
-            <strong> Source-Code: </strong><a href="https://github.com/Sabit-Ahmed/predPhogly-Site">https://github.com/Sabit-Ahmed/predPhogly-Site</a>
+            <strong> DOI: </strong><a href="https://doi.org/10.1371/journal.pone.0249396">10.1371/journal.pone.0249396</a> <br>
+            <strong> Source-Code: </strong><a href="https://github.com/Sabit-Ahmed/predPhogly-Site">https://github.com/Sabit-Ahmed/predPhogly-Site</a><br>
             <strong> Web-Server: </strong><a href="http://103.99.176.239/predPhogly-Site">http://103.99.176.239/predPhogly-Site.</a>
         </li>
     </ul>
