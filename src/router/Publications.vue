@@ -26,12 +26,15 @@
         </li>
         <br>
         <li>
-            Ahmed, Sabit, Afrida Rahman, Md Al Mehedi Hasan, Julia Rahman, Md. Khaled Ben Islam, and Shamim Ahmad. 
-            "predPhogly-Site: Predicting phosphoglycerylation sites by incorporating probabilistic sequence-coupling 
-            information into PseAAC and addressing data imbalance."<br>
+            Ahmed, Sabit, Afrida Rahman, Md. Al Mehedi Hasan, Md Khaled Ben Islam, Julia Rahman, and Shamim Ahmad. 
+            “predPhogly-Site: Predicting Phosphoglycerylation Sites by Incorporating Probabilistic Sequence-Coupling 
+            Information into PseAAC and Addressing Data Imbalance.” Edited by Ozlem Keskin. PLOS ONE 16, no. 4 
+            (April 1, 2021): e0249396. doi:10.1371/journal.pone.0249396.<br>
             <strong> Journal Title: </strong>PLOS ONE (I.F.: 2.74)<br>
-            <strong> Status: </strong>Under Revision.<br>
-            <!-- <strong> DOI: </strong>Still in process. -->
+            <strong> Date of Publication: </strong>01 April 2021.<br>
+            <strong> DOI: </strong><a href="https://doi.org/10.1371/journal.pone.0249396">10.1371/journal.pone.0249396</a>
+            <strong> Source-Code: </strong><a href="https://github.com/Sabit-Ahmed/predPhogly-Site">https://github.com/Sabit-Ahmed/predPhogly-Site</a>
+            <strong> Web-Server: </strong><a href="http://103.99.176.239/predPhogly-Site">http://103.99.176.239/predPhogly-Site.</a>
         </li>
     </ul>
   </div>
