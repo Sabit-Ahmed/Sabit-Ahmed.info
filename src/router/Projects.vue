@@ -58,6 +58,27 @@
     </div>
     <br><br>
     <div>
+      <h4> Cross-platform applications: </h4>
+        <ul>
+          <li><strong> 2.EMMA - LPT </strong></li>
+        <div>
+          <strong> Project Details: </strong>
+            Efficient Musculoskeletal Medical Assistant (EMMA) is a cross-platform application for 
+            aiding AI driven musculoskeletal solutions. This stack consists of demo repositories, 
+            such as deploying custom trained and converted models, face and pose detection models 
+            with bare React-Native applications. The demo application below has been successfully 
+            integrated with the official EMMA - LPT mobile app.
+          <br>
+          <strong> Timeline: </strong> April 2021 – August 2021.<br>
+          <strong> Language and Tools: </strong> JavaScript, React-Native, PyTorch, Tensorflow.js.<br>
+          <strong> GitHub Repository: </strong> 
+          <a href="https://github.com/Sabit-Ahmed/React-Native-Projects">https://github.com/Sabit-Ahmed/React-Native-Projects</a> 
+          <a href="https://github.com/Sabit-Ahmed/React-Native-Projects/tree/main/rn9app"><strong> See Demo application </strong></a>
+        </div>
+        </ul>
+    </div>
+    <br><br>
+    <div>
       <h4> Image Processing: </h4>
         <div>
           <strong> Project Details: </strong>
