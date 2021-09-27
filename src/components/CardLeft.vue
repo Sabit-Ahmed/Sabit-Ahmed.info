@@ -10,7 +10,6 @@
           <ul>
           <li><a href="mailto:sabit.a.sirat@gmail.com">sabit.a.sirat@gmail.com</a></li>
           <li><a href="1503056@student.ruet.ac.bd">1503056@student.ruet.ac.bd</a></li>
-          <li><a href="sabit.a.sirat@ieee.org">sabit.a.sirat@ieee.org</a></li>
           </ul>
           <a href="https://www.linkedin.com/in/sabitahmed/">
               <img src="./images/linkedin-logo.png" alt="Linkedin"  style="width:42px;height:42px;padding:5px;">
@@ -29,7 +28,12 @@
           <a href="https://www.facebook.com/sabit.a.sirat">
               <img src="./images/fb.png" alt="facebook"  style="width:55px;height:55px;padding:5px;">
           </a>
+          <br><br>
+          <a href="../assets/Resume.pdf" download="Resume">
+           Download Resume
+          </a>
       </p>
+      <p> Last updated on 27 September 2021</p>
     </div>
 </template>
 

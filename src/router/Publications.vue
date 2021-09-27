@@ -17,8 +17,8 @@
     <h4> Journal Articles: </h4>
     <ul>
         <li>
-            Ahmed, S., Rahman, A., Hasan, M.A.M. et al. Computational identification of multiple lysine 
-            PTM sites by analyzing the instance hardness and feature importance. Sci Rep 11, 18882 (2021).
+            Ahmed, Sabit, Afrida Rahman, Md. Al Mehedi Hasan, Sahmim Ahmad, and S. M. Shovan. "Computational identification of multiple lysine 
+            PTM sites by analyzing the instance hardness and feature importance." Sci Rep 11, 18882 (2021).
              https://doi.org/10.1038/s41598-021-98458-y<br>
             <strong> Journal Title: </strong>Scientific Reports - Nature (Impact Factor: 5.133)<br>
             <strong> Date of Publication: </strong>23 September 2021.<br>
@@ -28,7 +28,7 @@
         </li>
         <br>
         <li>
-            S. Ahmed, A. Rahman, M. A. M. Hasan, J. Rahman, M. K. B. Islam and S. Ahmad, 
+            Ahmed, Sabit, Afrida Rahman, Md. Al Mehedi Hasan, Julia Rahman, Md Khaled Ben Islam, and Shamim Ahmad, 
             "predML-Site: Predicting Multiple Lysine PTM Sites with Optimal Feature Representation 
             and Data Imbalance Minimization," in IEEE/ACM Transactions on Computational Biology and 
             Bioinformatics, doi: 10.1109/TCBB.2021.3114349.<br>
@@ -52,7 +52,7 @@
         </li>
         <br>
         <li>
-            Ahmed, Sabit, Afrida Rahman, Md. Al Mehedi Hasan, Shamim Ahmad, and Abdollah Dehzangi. 
+            Rahman, Afrida, Sabit Ahmed, Md Al Mehedi Hasan, and Shamim Ahmad, and Abdollah Dehzangi. 
             "Accurately Predicting Nitrosylated Tyrosine Sites Using probabilistic sequence information."<br>
             <strong> Journal Title: </strong>Gene - Elsevier (Impact Factor: 3.688)<br>
             <strong> Status: </strong> Under Revision <br>

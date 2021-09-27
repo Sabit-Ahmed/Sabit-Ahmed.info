@@ -2,14 +2,13 @@
   <div class="col-md-8 myClass">
     <h3><strong>Overview</strong></h3>
     <p>
-    A recently graduated student of Computer Science and Engineering who has conducted researches on identifying 
-    different types of Post-Translational Modifications (PTM). Deep expertise and hands on experience in 
-    analyzing, designing, developing and integrating Front-End & Back-End based applications. Also Experienced 
-    Secretary with a demonstrated 
-    history of working in Nonprofit Organizations. 1+ years of research experience in Computational 
-    Proteomics, Protein Sequence Analysis, Computational Biology, Data Preprocessing, Feature Engineering, Machine Learning, 
-    Multi-Label Metric Systems, etc. Research interest includes Bioinformatics, Data Science, and 
-    Artificial Intelligence.
+    A recently graduated student of Computer Science and Engineering who has conducted researches 
+    on identifying different types of Post-Translational Modifications (PTM). Also Experienced Secretary 
+    with a demonstrated history of working in Nonprofit Organizations. About 2+ years of research 
+    experience in Machine Learning, Bioinformatics, Computational Proteomics, Protein Sequence Analysis, 
+    Feature Engineering, etc. Research interest includes Machine Learning, Data Science, and Artificial 
+    Intelligence. About 1 year of development experience in AI driven Musculoskeletal Health Management 
+    System.
     </p>
     <br>
     <h4><strong> Featured Skills </strong></h4>
@@ -61,8 +60,10 @@
         <div class="card bg-light mb-3" style="max-width: 18rem;">
         <div class="card-body cardHover">
           <h5 class="card-title"><strong> 15+ Projects </strong></h5>
-          <p class="card-text"> Built numerous projects which cover Full Stack Web Development, Data Science, 
-            Image Processing, Containerized RESTfull API, Machine Learning, Protein's Post-Translational Modifications Prediction,
+          <p class="card-text"> Built numerous projects which cover Full Stack Web Development, 
+            Cross-platform applications Data Science, 
+            Image Processing, Containerized RESTfull API, Machine Learning, Protein's Post-Translational 
+            Modifications Prediction,
             and so on.
           </p>
         </div>
@@ -76,10 +77,11 @@
       >
         <div class="card bg-light mb-3" style="max-width: 18rem;">
         <div class="card-body cardHover">
-          <h5 class="card-title"><strong> 3 Publications </strong></h5>
-          <p class="card-text"> Two single-label PTM site predictors 
-            (i.e. Formyl Pred and predPhogly-Site) and two mult-label PTM site predictors have been developed.
-            Achievement: 1 accepted conference paper and 2 journal articles (Under Revision). 
+          <h5 class="card-title"><strong> 5 Publications </strong></h5>
+          <p class="card-text"> Three single-label PTM site predictors 
+            (i.e. Formyl Pred, predPhogly-Site, and PredNitro) and two mult-label 
+            PTM site predictors (i.e. predML-Site and iMul-kSite) have been developed.
+            Achievement: 1 accepted conference paper and 4 published journal articles. 
           </p>
         </div>
       </div>
