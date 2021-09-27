@@ -17,12 +17,26 @@
     <h4> Journal Articles: </h4>
     <ul>
         <li>
-            Ahmed, Sabit, Afrida Rahman, Md Al Mehedi Hasan, Julia Rahman, Md. Khaled Ben Islam, and Shamim Ahmad. 
-            "predML-Site: Predicting Multiple Lysine PTM Sites with Optimal Feature Representation and Data Imbalance 
-            Minimization."<br>
-            <strong> Journal Title: </strong>IEEE/ACM Transactions on Computational Biology and Bioinformatics (I.F.: 3.015)<br>
-            <strong> Status: </strong>Under Revision.<br>
-            <!-- <strong> DOI: </strong>Still in process. -->
+            Ahmed, S., Rahman, A., Hasan, M.A.M. et al. Computational identification of multiple lysine 
+            PTM sites by analyzing the instance hardness and feature importance. Sci Rep 11, 18882 (2021).
+             https://doi.org/10.1038/s41598-021-98458-y<br>
+            <strong> Journal Title: </strong>Scientific Reports - Nature (Impact Factor: 5.133)<br>
+            <strong> Date of Publication: </strong>23 September 2021.<br>
+            <strong> DOI: </strong> <a href="https://doi.org/10.1038/s41598-021-98458-y">https://doi.org/10.1038/s41598-021-98458-y</a>
+            <strong> Source-Code: </strong><a href="https://github.com/Sabit-Ahmed/iMul-kSite">https://github.com/Sabit-Ahmed/iMul-kSite</a><br>
+            <strong> Web-Server: </strong><a href="http://103.99.176.239/iMul-kSite">http://103.99.176.239/iMul-kSite.</a>
+        </li>
+        <br>
+        <li>
+            S. Ahmed, A. Rahman, M. A. M. Hasan, J. Rahman, M. K. B. Islam and S. Ahmad, 
+            "predML-Site: Predicting Multiple Lysine PTM Sites with Optimal Feature Representation 
+            and Data Imbalance Minimization," in IEEE/ACM Transactions on Computational Biology and 
+            Bioinformatics, doi: 10.1109/TCBB.2021.3114349.<br>
+            <strong> Journal Title: </strong>IEEE/ACM Transactions on Computational Biology and 
+            Bioinformatics (I.F.: 3.015)<br>
+            <strong> Date of Publication: </strong>21 September 2021.<br>
+            <strong> DOI: </strong> <a href="https://doi.org/10.1109/TCBB.2021.3114349">https://doi.org/10.1109/TCBB.2021.3114349</a>
+            <strong> Web-Server: </strong><a href="http://103.99.176.239/predML-Site">http://103.99.176.239/predML-Site.</a>
         </li>
         <br>
         <li>
@@ -30,11 +44,22 @@
             “predPhogly-Site: Predicting Phosphoglycerylation Sites by Incorporating Probabilistic Sequence-Coupling 
             Information into PseAAC and Addressing Data Imbalance.” Edited by Ozlem Keskin. PLOS ONE 16, no. 4 
             (April 1, 2021): e0249396. doi:10.1371/journal.pone.0249396.<br>
-            <strong> Journal Title: </strong>PLOS ONE (I.F.: 2.74)<br>
+            <strong> Journal Title: </strong>PLOS ONE (I.F.: 3.24)<br>
             <strong> Date of Publication: </strong>01 April 2021.<br>
             <strong> DOI: </strong><a href="https://doi.org/10.1371/journal.pone.0249396">10.1371/journal.pone.0249396</a> <br>
             <strong> Source-Code: </strong><a href="https://github.com/Sabit-Ahmed/predPhogly-Site">https://github.com/Sabit-Ahmed/predPhogly-Site</a><br>
             <strong> Web-Server: </strong><a href="http://103.99.176.239/predPhogly-Site">http://103.99.176.239/predPhogly-Site.</a>
+        </li>
+        <br>
+        <li>
+            Ahmed, Sabit, Afrida Rahman, Md. Al Mehedi Hasan, Shamim Ahmad, and Abdollah Dehzangi. 
+            "Accurately Predicting Nitrosylated Tyrosine Sites Using probabilistic sequence information."<br>
+            <strong> Journal Title: </strong>Gene - Elsevier (Impact Factor: 3.688)<br>
+            <strong> Status: </strong> Under Revision <br>
+            <!-- <strong> Date of Publication: </strong>01 April 2021.<br> 
+            <strong> DOI: </strong><a href="https://doi.org/10.1371/journal.pone.0249396">10.1371/journal.pone.0249396</a> <br>
+            <strong> Source-Code: </strong><a href="https://github.com/Sabit-Ahmed/predPhogly-Site">https://github.com/Sabit-Ahmed/predPhogly-Site</a><br> -->
+            <strong> Web-Server: </strong><a href="http://103.99.176.239/PredNitro">http://103.99.176.239/PredNitro.</a>
         </li>
     </ul>
   </div>

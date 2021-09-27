@@ -60,7 +60,7 @@
     <div>
       <h4> Cross-platform applications: </h4>
         <ul>
-          <li><strong> 2.EMMA - LPT </strong></li>
+        <li><strong> EMMA - LPT </strong></li>
         <div>
           <strong> Project Details: </strong>
             Efficient Musculoskeletal Medical Assistant (EMMA) is a cross-platform application for 
@@ -73,7 +73,18 @@
           <strong> Language and Tools: </strong> JavaScript, React-Native, PyTorch, Tensorflow.js.<br>
           <strong> GitHub Repository: </strong> 
           <a href="https://github.com/Sabit-Ahmed/React-Native-Projects">https://github.com/Sabit-Ahmed/React-Native-Projects</a> 
+          <br>
           <a href="https://github.com/Sabit-Ahmed/React-Native-Projects/tree/main/rn9app"><strong> See Demo application </strong></a>
+        </div>
+
+        <li><strong> Learn Therapist (Android and iOS) </strong></li>
+        <div>
+          <strong> Project Details: </strong>
+            Learn Therapist is a new integration project of EMMA - LPT. It is a virtual therapist 
+            which can guide patients for the correct movements of an exercise. This is an ongoing project.
+          <br>
+          <strong> Timeline: </strong> August 2021 – Present.<br>
+          <strong> Language and Tools: </strong> Kotlin, Swift, Android Studio, Xcode.<br>
         </div>
         </ul>
     </div>
@@ -99,12 +110,11 @@
         <div>
           <strong> Project Details: </strong>
             This project aims to identify protein's post-translational modifications both individually and 
-            simultaneously with higher efficacy. We have worked on Formylation, Malonylation, Phosphoglycerylation, 
-            Glycation, Acetylation, Crotonylation, Methylation, Succinylation, and Glutarylation so far. We have 
-            developed two single label predictors such as Formyl_Pred and predPhogly-Site for Formylation and 
-            Phosphoglycerylation site prediction and two multi-label predictors, one is predML-Site for predicting 
-            Acetylation, Crotonylation, Methylation, and Succinylation simultaneously and the other one is still in 
-            process. More information could be found in the publications section.
+            simultaneously with higher efficacy. We have developed three single label predictors such as 
+            Formyl_Pred, predPhogly-Site, and PredNitro which correspond to Formylation, Phosphoglycerylation,
+             and Nitrotyrosine sites prediction separately, and two multi-label predictors, such as, 
+             predML-Site, and iMul-kSite for predicting Acetylation, Crotonylation, Methylation, Succinylation,
+              and glutarylation sites simultaneously. More information could be found in the publications section.
           <br>
           <strong> Timeline: </strong> August 2019 – Present.<br>
           <strong> Language and Tools: </strong> MATLAB, Python, Scikit-learn, Django, HTML, and CSS.<br>
@@ -119,8 +129,16 @@
               <a href="http://103.99.176.239/predML-Site">http://103.99.176.239/predPhogly-Site</a>
             </li>
             <li>
-              <strong> GitHub Repository: </strong>
-              <a href="https://github.com/Sabit-Ahmed/predPhogly-Site">https://github.com/Sabit-Ahmed/predPhogly-Site</a>
+              <strong> iMul-kSite: </strong>
+              <a href="http://103.99.176.239/iMul-kSite">http://103.99.176.239/iMul-kSite</a>
+            </li>
+            <li>
+              <strong> PredNitro: </strong>
+              <a href="http://103.99.176.239/PredNitro">http://103.99.176.239/PredNitro</a>
+            </li>
+            <li>
+              <strong> ResearchGate: </strong>
+              <a href="https://www.researchgate.net/project/Post-translational-Modifications">https://www.researchgate.net/project/Post-translational-Modifications</a>
             </li>
           </ul>
         </div>
