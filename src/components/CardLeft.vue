@@ -29,7 +29,7 @@
               <img src="./images/fb.png" alt="facebook"  style="width:55px;height:55px;padding:5px;">
           </a>
           <br><br>
-          <a href="../assets/Resume.pdf" download="Resume">
+          <a href="./images/Resume.pdf" download="Resume">
            Download Resume
           </a>
       </p>
