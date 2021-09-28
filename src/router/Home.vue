@@ -46,7 +46,7 @@
         <h5 class="card-title"><strong> Career Summary </strong></h5>
         <p class="card-text"> Parallel to the academic study, an active researcher and a 
           committed apprentice who is currently mastering on Data Science and DevOps Concepts. Has
-          demonstrated organizing and managing experience. In addition to that, has about 2+ years 
+          demonstrated organizing and managing experience. Also, has about 2+ years 
           of research and 1 year of 
           development experiences.
         </p>
@@ -61,7 +61,7 @@
       >
         <div class="card bg-light mb-3" style="max-width: 18rem;">
         <div class="card-body cardHover">
-          <h5 class="card-title"><strong> 15+ Projects </strong></h5>
+          <h5 class="card-title"><strong> 25+ Projects </strong></h5>
           <p class="card-text"> Built numerous projects which cover Full Stack Web Development, 
             Cross-platform Applications, Real-time AI Applications, Data Science, 
             Image Processing, Containerized RESTfull API, Machine Learning, Protein's Post-Translational 
