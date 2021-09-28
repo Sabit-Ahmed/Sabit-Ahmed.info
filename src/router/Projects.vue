@@ -74,9 +74,9 @@
           <strong> GitHub Repository: </strong> 
           <a href="https://github.com/Sabit-Ahmed/React-Native-Projects">https://github.com/Sabit-Ahmed/React-Native-Projects</a> 
           <br>
-          <a href="https://github.com/Sabit-Ahmed/React-Native-Projects/tree/main/rn9app"><strong> See Demo application </strong></a>
+          <a href="https://github.com/Sabit-Ahmed/React-Native-Projects/tree/main/rn9app" target="_blank"><strong> See Demo application </strong></a>
         </div>
-
+        <br>
         <li><strong> Learn Therapist (Android and iOS) </strong></li>
         <div>
           <strong> Project Details: </strong>

@@ -249,6 +249,7 @@
           <li> Computational Proteomics </li>
           <li> Protein Sequence Analysis </li>
           <li> Multi-Label Metrics System </li>
+          <li> Real-Time AI Applications </li>
         </ul>
       </div>
       <div class="col-md-4">
@@ -258,6 +259,7 @@
           <li> Model Deployment </li>
           <li> Image Processing </li>
           <li> Web Scraping </li>
+          <li> Exercise Tracking System </li>
         </ul>
       </div>
     </div>
