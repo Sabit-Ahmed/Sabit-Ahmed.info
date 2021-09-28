@@ -17,9 +17,10 @@
     <h4> Journal Articles: </h4>
     <ul>
         <li>
-            Ahmed, Sabit, Afrida Rahman, Md. Al Mehedi Hasan, Sahmim Ahmad, and S. M. Shovan. "Computational identification of multiple lysine 
-            PTM sites by analyzing the instance hardness and feature importance." Sci Rep 11, 18882 (2021).
-             https://doi.org/10.1038/s41598-021-98458-y<br>
+            Ahmed, Sabit, Afrida Rahman, Md. Al Mehedi Hasan, Sahmim Ahmad, and S. M. Shovan. 
+            "Computational identification of multiple lysine PTM sites by analyzing the instance 
+            hardness and feature importance." Sci Rep. 2021;11(1):18882. Published 2021 Sep 23. 
+            doi:10.1038/s41598-021-98458-y<br>
             <strong> Journal Title: </strong>Scientific Reports - Nature (Impact Factor: 5.133)<br>
             <strong> Date of Publication: </strong>23 September 2021.<br>
             <strong> DOI: </strong> <a href="https://doi.org/10.1038/s41598-021-98458-y">https://doi.org/10.1038/s41598-021-98458-y</a>
