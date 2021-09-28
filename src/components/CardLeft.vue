@@ -29,8 +29,8 @@
               <img src="./images/fb.png" alt="facebook"  style="width:55px;height:55px;padding:5px;">
           </a>
           <br><br>
-          <a href="./images/Resume.pdf">
-           Download Resume
+          <a href="./images/CV.pdf">
+           Download CV
           </a>
       </p>
       <p> Last updated on 28 September 2021</p>
