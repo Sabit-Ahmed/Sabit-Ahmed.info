@@ -29,7 +29,7 @@
               <img src="./images/fb.png" alt="facebook"  style="width:55px;height:55px;padding:5px;">
           </a>
           <br><br>
-          <a href="./images/CV.pdf">
+          <a href="@/images/CV.pdf">
            Download CV
           </a>
       </p>
