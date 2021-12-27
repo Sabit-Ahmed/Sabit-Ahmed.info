@@ -18,7 +18,7 @@
             Government Laboratory High School<br>
             Dhaka-1205, Bangladesh
         </td>
-        <td> 5.00/5.00 </td>
+        <td> 5.00 / 5.00 </td>
         <td>2002 - 2013</td>
         </tr>
         <tr>
@@ -28,7 +28,7 @@
             Dhaka Residential Model College<br>
             Dhaka-1207, Bangladesh
         </td>
-        <td> 5.00/5.00 </td>
+        <td> 5.00 / 5.00 </td>
         <td>2013 - 2015</td>
         </tr>
         <tr>
@@ -38,25 +38,28 @@
             Rajshahi University of Engineering & Technology<br>
             Rajshahi-6204, Bangladesh
         </td>
-        <td> 3.29/4.00 </td>
+        <td> 3.29 / 4.00 </td>
         <td>2015 - 2021</td>
         </tr>
         <tr>
           <th scope="row">###</th>
           <td> 
             B.Sc. Thesis <br>
-            Thesis Title: iML-LysPTM: Identification of Multi-Label Lysine <br>
-            PTM Sites with Feature Optimization and Data Imbalance Minimization <br>
+            Thesis Title: iML-LysPTM: Identification of Multi-Label<br>
+            Lysine PTM Sites with Feature Optimization and Data Imbalance<br>
+            Minimization <br>
             <a href="BSc-Thesis.pdf" target="_blank">
             Download
             </a>
           </td>
-          <td> 4.00/4.00 </td>
+          <td> 4.00 / 4.00 </td>
           <td> 2020-2021 </td>
         </tr>
       </tbody>
     </table>
+
     <br><br>
+
     <h3><strong>Professional Background</strong></h3>
     <h4>MyMedicalHub</h4>
     <p> Jr. AI Developer </p>
@@ -107,20 +110,8 @@
       </tbody>
     </table>
 
-    <h4>IEEE</h4>
-    <p> Student Member </p>
-    <table class="table">
-      <tbody>
-        <tr class="row">
-        <td class="col-md-2">December 2019 - Present</td>
-        <td class="col-md-8">
-            <ul>
-              <li> Maintaining professional networking with the benefit of career resources and recognition. </li>
-            </ul>
-        </td>
-        </tr>
-      </tbody>
-    </table>
+    <br><br>
+    <h3><strong>Research Experience</strong></h3>
 
     <h4>Machine Learning Research Group</h4>
     <p> Research Candidate </p>
@@ -132,7 +123,40 @@
             <ul>
               <li> Pursuing researches on Computational Proteomics. </li>
               <li> Ongoing research project: Post-Translational Modifications. </li>
-              <li> 1 accepted conference paper and 2 journal articles (Under Revision). </li>
+              <li> 1 accepted conference paper and 4 journal articles. </li>
+            </ul>
+        </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <br><br>
+    <h3><strong>Membership and Awards</strong></h3>
+
+    <h4>IEEE</h4>
+    <p> Student Member </p>
+    <table class="table">
+      <tbody>
+        <tr class="row">
+        <td class="col-md-2">December 2019 - December 2021</td>
+        <td class="col-md-8">
+            <ul>
+              <li> Maintaining professional networking with the benefit of career resources and recognition. </li>
+            </ul>
+        </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h4>Sigma Xi: The Scientific Research Honor Society</h4>
+    <p> Member </p>
+    <table class="table">
+      <tbody>
+        <tr class="row">
+        <td class="col-md-2">November 2021 - June 2022</td>
+        <td class="col-md-8">
+            <ul>
+              <li> Maintaining professional networking with the benefit of career resources and recognition. </li>
             </ul>
         </td>
         </tr>

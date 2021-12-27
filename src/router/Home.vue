@@ -64,9 +64,8 @@
           <h5 class="card-title"><strong> 25+ Projects </strong></h5>
           <p class="card-text"> Built numerous projects which cover Full Stack Web Development, 
             Cross-platform Applications, Real-time AI Applications, Data Science, 
-            Image Processing, Containerized RESTfull API, Machine Learning, Protein's Post-Translational 
-            Modifications Prediction,
-            and so on.
+            Image Processing, Containerized RESTfull API, Machine Learning, Docker, iOS App,
+            etc..
           </p>
         </div>
       </div>
