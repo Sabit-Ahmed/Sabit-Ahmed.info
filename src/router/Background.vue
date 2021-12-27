@@ -6,7 +6,7 @@
         <tr>
             <th scope="col">#</th>
             <th scope="col">Details</th>
-            <th scope="col">GPA</th>
+            <th scope="col">Result</th>
             <th scope="col">Timeline</th>
         </tr>
       </thead>
