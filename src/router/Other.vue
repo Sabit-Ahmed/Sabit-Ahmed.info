@@ -24,23 +24,39 @@
         <strong> Dr. Md Al Mehedi Hasan </strong><br>
           Postdoctoral Researcher<br>
           University of Aizu, Japan<br>
-          Email: <a href = "mailto: mehedi_ru@yahoo.com">mehedi_ru@yahoo.com</a><br>
-          Phone: +8801712205360<br>
+          Professor<br>
+          Department of Computer Science and Engineering<br>
+          Rajshahi University of Engineering and Technology<br>
+          Rajshahi-6204, Bangladesh<br>
+          Email: <a href = "mailto: mehedi.hasan@cse.ruet.ac.bd">mehedi.hasan@cse.ruet.ac.bd</a>
+          <a href = "mailto: mehedi_ru@yahoo.com">mehedi_ru@yahoo.com</a><br>
+          Phone: +8801712205360
           <br>
-          <strong> Nowfel Mashnoor </strong><br>
-          Sr. Software Engineer<br>
-          Evident BD Ltd.<br>
-          Email: <a href = "mailto: nmmashnoor@gmail.com">nmmashnoor@gmail.com</a><br>
-          Phone: +8801826636115<br>
+          <br>
+          <strong> Dr. Shamim Ahmad </strong><br>
+          Professor<br>
+          Department of Computer Science and Engineering<br>
+          University of Rajshahi, Rajshahi-6205, Bangladesh<br>
+          Email: <a href = "mailto: shamim_cst@ru.ac.bd">shamim_cst@ru.ac.bd</a>
+          <a href = "mailto: shamim_cst@yahoo.com">shamim_cst@yahoo.com</a><br>
+          Phone: +8801713140107<br>
       </div>
 
       <div class="grid-child-2">
-        <strong> Dr. Md. Nazrul Islam Mondal </strong><br>
-          Professor<br>
-          Department of CSE<br>
-          Rajshahi University of Engineering and Technology<br>
-          Email: <a href = "mailto: mondal@cse.ruet.ac.bd">mondal@cse.ruet.ac.bd</a><br>
-          Phone: +8801720662278<br>
+        <strong> Dr. Abdollah Dehzangi </strong><br>
+          Assistant Professor<br>
+          Department of Computer Science<br>
+          Center for Computational and Integrative Biology (CCIB)<br>
+          Rutgers University, Camden, NJ 08102, USA<br>
+          Email: <a href = "mailto: i.dehzangi@gmai.com">i.dehzangi@gmai.com</a><br>
+          Phone: +1 443 558 8006
+          <br>
+          <br>
+          <strong> Nowfel Mashnoor </strong><br>
+          Sr. Software Engineer<br>
+          Upay Ltd.<br>
+          Email: <a href = "mailto: nmmashnoor@gmail.com">nmmashnoor@gmail.com</a><br>
+          Phone: +8801826636115<br>
       <div>
     </div>
   </div>
