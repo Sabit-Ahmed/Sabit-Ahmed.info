@@ -22,12 +22,12 @@
       
       <div class="grid-child-1">
         <strong> Dr. Md Al Mehedi Hasan </strong><br>
-          Postdoctoral Researcher<br>
-          University of Aizu, Japan<br>
           Professor<br>
           Department of Computer Science and Engineering<br>
           Rajshahi University of Engineering and Technology<br>
           Rajshahi-6204, Bangladesh<br>
+          Postdoctoral Researcher<br>
+          University of Aizu, Japan<br>
           Email: <a href = "mailto: mehedi.hasan@cse.ruet.ac.bd">mehedi.hasan@cse.ruet.ac.bd</a>
           <a href = "mailto: mehedi_ru@yahoo.com">mehedi_ru@yahoo.com</a><br>
           Phone: +8801712205360
@@ -50,6 +50,8 @@
           Rutgers University, Camden, NJ 08102, USA<br>
           Email: <a href = "mailto: i.dehzangi@gmai.com">i.dehzangi@gmai.com</a><br>
           Phone: +1 443 558 8006
+          <br>
+          <br>
           <br>
           <br>
           <strong> Nowfel Mashnoor </strong><br>
