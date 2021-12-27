@@ -17,7 +17,7 @@
         <li> Movies </li>
     </ul>
     <br>
-    <h4> References: </h4>
+    <h4> REFERENCES: </h4>
     <div class="grid-container">
       
       <div class="grid-child-1">
