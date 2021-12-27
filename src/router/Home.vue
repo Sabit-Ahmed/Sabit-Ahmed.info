@@ -12,17 +12,21 @@
     </p>
     <br>
     <h4><strong> Featured Skills </strong></h4>
+    <strong> Mobile Application Development </strong>
+    <div class="progress myIcon-space">
+      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
     <strong> Web Development </strong>
     <div class="progress myIcon-space">
-      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
     </div>
     <strong> Data Science </strong>
     <div class="progress myIcon-space">
-      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 45%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
     </div>
     <strong> Bioinformatics </strong>
     <div class="progress myIcon-space">
-      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
     </div>
     <strong> Team Player </strong>
     <div class="progress myIcon-space">
@@ -30,7 +34,7 @@
     </div>
     <strong> Analytical Skill </strong>
     <div class="progress myIcon-space">
-      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 55%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 100%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
     </div>
     <br>
     
