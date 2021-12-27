@@ -18,7 +18,7 @@
             Government Laboratory High School<br>
             Dhaka-1205, Bangladesh
         </td>
-        <td> 5.00 / 5.00 </td>
+        <td> GPA 5.00 out of 5.00 </td>
         <td>2002 - 2013</td>
         </tr>
         <tr>
@@ -28,7 +28,7 @@
             Dhaka Residential Model College<br>
             Dhaka-1207, Bangladesh
         </td>
-        <td> 5.00 / 5.00 </td>
+        <td> GPA 5.00 out of 5.00 </td>
         <td>2013 - 2015</td>
         </tr>
         <tr>
@@ -52,7 +52,7 @@
             Download
             </a>
           </td>
-          <td> 4.00 / 4.00 </td>
+          <td> GPA 4.00 out of 4.00 </td>
           <td> 2020 - 2021 </td>
         </tr>
       </tbody>
