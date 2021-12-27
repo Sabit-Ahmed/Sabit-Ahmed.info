@@ -45,7 +45,8 @@
           <th scope="row">###</th>
           <td> 
             B.Sc. Thesis <br>
-            Thesis Title: iML-LysPTM: Identification of Multi-Label Lysine PTM Sites with Feature Optimization and Data Imbalance Minimization <br>
+            Thesis Title: iML-LysPTM: Identification of Multi-Label Lysine <br>
+            PTM Sites with Feature Optimization and Data Imbalance Minimization <br>
             <a href="BSc-Thesis.pdf" target="_blank">
             Download
             </a>
