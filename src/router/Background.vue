@@ -5,43 +5,58 @@
       <thead>
         <tr>
             <th scope="col">#</th>
-            <th scope="col">Timeline</th>
             <th scope="col">Details</th>
+            <th scope="col">GPA</th>
+            <th scope="col">Timeline</th>
         </tr>
       </thead>
       <tbody>
         <tr>
         <th scope="row">1</th>
-        <td>2015 - 2021</td>
-        <td>
-            B.Sc in Computer Science & Engineering<br>
-            Rajshahi University of Engineering & Technology<br>
-            Rajshahi-6204, Bangladesh
-        </td>
-        </tr>
-        <tr>
-        <th scope="row">2</th>
-        <td>2013 - 2015</td>
-        <td>
-            Higher Secondary School Certificate<br>
-            Dhaka Residential Model College<br>
-            Dhaka-1207, Bangladesh
-        </td>
-        </tr>
-        <tr>
-        <th scope="row">3</th>
-        <td>2002 - 2013</td>
         <td>
             Secondary School Certificate<br>
             Government Laboratory High School<br>
             Dhaka-1205, Bangladesh
         </td>
+        <td> 5.00/5.00 </td>
+        <td>2002 - 2013</td>
+        </tr>
+        <tr>
+        <th scope="row">2</th>
+        <td>
+            Higher Secondary School Certificate<br>
+            Dhaka Residential Model College<br>
+            Dhaka-1207, Bangladesh
+        </td>
+        <td> 5.00/5.00 </td>
+        <td>2013 - 2015</td>
+        </tr>
+        <tr>
+        <th scope="row">1</th>
+        <td>
+            B.Sc in Computer Science & Engineering<br>
+            Rajshahi University of Engineering & Technology<br>
+            Rajshahi-6204, Bangladesh
+        </td>
+        <td> 3.29/4.00 </td>
+        <td>2015 - 2021</td>
+        </tr>
+        <tr>
+          <td> 
+            B.Sc. Thesis <br>
+            Thesis Title: iML-LysPTM: Identification of Multi-Label Lysine PTM Sites with Feature Optimization and Data Imbalance Minimization <br>
+            <a href="BSc-Thesis.pdf" target="_blank">
+            Download
+            </a>
+          </td>
+          <td> 4.00/4.00 </td>
+          <td> 2020-2021 </td>
         </tr>
       </tbody>
     </table>
     <br><br>
     <h3><strong>Professional Background</strong></h3>
-    <h4>MyMedicalHub Bangladesh LTD.</h4>
+    <h4>MyMedicalHub</h4>
     <p> Jr. AI Developer </p>
     <table class="table">
       <tbody>

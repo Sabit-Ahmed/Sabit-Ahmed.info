@@ -35,7 +35,7 @@
             <strong> Journal Title: </strong>IEEE/ACM Transactions on Computational Biology and 
             Bioinformatics (I.F.: 3.015)<br>
             <strong> Date of Publication: </strong>21 September 2021.<br>
-            <strong> DOI: </strong> <a href="https://doi.org/10.1109/TCBB.2021.3114349">https://doi.org/10.1109/TCBB.2021.3114349</a>
+            <strong> DOI: </strong> <a href="https://doi.org/10.1109/TCBB.2021.3114349">https://doi.org/10.1109/TCBB.2021.3114349</a><br>
             <strong> Web-Server: </strong><a href="http://103.99.176.239/predML-Site">http://103.99.176.239/predML-Site.</a>
         </li>
         <br>
