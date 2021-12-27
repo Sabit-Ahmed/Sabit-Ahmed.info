@@ -32,7 +32,7 @@
         <td>2013 - 2015</td>
         </tr>
         <tr>
-        <th scope="row">1</th>
+        <th scope="row">3</th>
         <td>
             B.Sc in Computer Science & Engineering<br>
             Rajshahi University of Engineering & Technology<br>
@@ -42,6 +42,7 @@
         <td>2015 - 2021</td>
         </tr>
         <tr>
+          <th scope="row">###</th>
           <td> 
             B.Sc. Thesis <br>
             Thesis Title: iML-LysPTM: Identification of Multi-Label Lysine PTM Sites with Feature Optimization and Data Imbalance Minimization <br>
