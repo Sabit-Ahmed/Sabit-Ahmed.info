@@ -52,7 +52,6 @@
           <br>
           <br>
           <br>
-          <br>
           <strong> Nowfel Mashnoor </strong><br>
           Sr. Software Engineer<br>
           Upay Ltd.<br>
