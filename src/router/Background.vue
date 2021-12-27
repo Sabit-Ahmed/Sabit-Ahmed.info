@@ -34,11 +34,11 @@
         <tr>
         <th scope="row">3</th>
         <td>
-            <strong> B.Sc in Computer Science & Engineering </strong> <br>
+            <strong> B.Sc. in Computer Science & Engineering </strong> <br>
             Rajshahi University of Engineering & Technology<br>
             Rajshahi-6204, Bangladesh
         </td>
-        <td> 3.29 / 4.00 </td>
+        <td> First Class </td>
         <td>2015 - 2021</td>
         </tr>
         <tr>
