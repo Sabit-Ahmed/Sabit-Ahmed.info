@@ -70,7 +70,7 @@
             (Android and iOS), Full Stack Web Development, Cross-platform and Real-time AI
             Applications, Data Science,
             Image Processing, Containerized API, Machine Learning, Bioinformatics,
-            Computer Vision, etc.
+            Computer Vision.
           </p>
         </div>
       </div>
