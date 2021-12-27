@@ -10,7 +10,7 @@
               <div class="row"> 
                 <div class="col-md-3">Python</div> 
                 <div class="progress myIcon-space col-md-8">
-                    <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
           </li>
@@ -24,17 +24,25 @@
           </li>
           <li>
               <div class="row"> 
-                <div class="col-md-3">C</div> 
+                <div class="col-md-3">C++</div> 
                 <div class="progress myIcon-space col-md-8">
                     <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 60%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
           </li>
           <li>
-              <div class="row"> 
-                <div class="col-md-3">C++</div> 
+              <div class="row">
+                <div class="col-md-3">Kotlin</div>
                 <div class="progress myIcon-space col-md-8">
-                    <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 75%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+          </li>
+          <li>
+              <div class="row">
+                <div class="col-md-3">Swift</div>
+                <div class="progress myIcon-space col-md-8">
+                    <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
           </li>
@@ -78,33 +86,25 @@
         <ul>
           <li>
               <div class="row"> 
-                <div class="col-md-3">HTML</div> 
-                <div class="progress myIcon-space col-md-8">
-                    <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 95%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-              </div>
-          </li>
-          <li>
-              <div class="row"> 
-                <div class="col-md-3">CSS</div> 
-                <div class="progress myIcon-space col-md-8">
-                    <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 95%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-              </div>
-          </li>
-          <li>
-              <div class="row"> 
-                <div class="col-md-3">JavaScript</div> 
-                <div class="progress myIcon-space col-md-8">
-                    <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 30%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-              </div>
-          </li>
-          <li>
-              <div class="row"> 
-                <div class="col-md-3">PHP</div> 
+                <div class="col-md-3">PHP</div>
                 <div class="progress myIcon-space col-md-8">
                     <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 60%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+          </li>
+          <li>
+              <div class="row"> 
+                <div class="col-md-3">JavaScript</div>
+                <div class="progress myIcon-space col-md-8">
+                    <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+          </li>
+          <li>
+              <div class="row"> 
+                <div class="col-md-3">React Native</div>
+                <div class="progress myIcon-space col-md-8">
+                    <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
           </li>
@@ -209,6 +209,69 @@
           <li>
               <div class="row"> 
                 <div class="col-md-3">scikit-learn</div> 
+                <div class="progress myIcon-space col-md-8">
+                    <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <br>
+
+    <div class="row">
+      <div class="col-md-6">
+        <strong> Mobile Development: </strong>
+        <ul>
+          <li>
+              <div class="row">
+                <div class="col-md-3">Android</div>
+                <div class="progress myIcon-space col-md-8">
+                    <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+          </li>
+          <li>
+              <div class="row">
+                <div class="col-md-3">iOS</div>
+                <div class="progress myIcon-space col-md-8">
+                    <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+          </li>
+          <li>
+              <div class="row">
+                <div class="col-md-3">Android Studio</div>
+                <div class="progress myIcon-space col-md-8">
+                    <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 75%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <br>
+        <ul>
+          <li>
+              <div class="row">
+                <div class="col-md-3">XCode </div>
+                <div class="progress myIcon-space col-md-8">
+                    <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 85%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+          </li>
+          <li>
+              <div class="row">
+                <div class="col-md-3">Git</div>
+                <div class="progress myIcon-space col-md-8">
+                    <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+          </li>
+          <li>
+              <div class="row">
+                <div class="col-md-3">SwiftUI</div>
                 <div class="progress myIcon-space col-md-8">
                     <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
