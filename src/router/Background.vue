@@ -14,7 +14,7 @@
         <tr>
         <th scope="row">1</th>
         <td>
-            Secondary School Certificate<br>
+            <strong> Secondary School Certificate </strong> <br>
             Government Laboratory High School<br>
             Dhaka-1205, Bangladesh
         </td>
@@ -24,7 +24,7 @@
         <tr>
         <th scope="row">2</th>
         <td>
-            Higher Secondary School Certificate<br>
+            <strong> Higher Secondary School Certificate </strong> <br>
             Dhaka Residential Model College<br>
             Dhaka-1207, Bangladesh
         </td>
@@ -34,7 +34,7 @@
         <tr>
         <th scope="row">3</th>
         <td>
-            B.Sc in Computer Science & Engineering<br>
+            <strong> B.Sc in Computer Science & Engineering </strong> <br>
             Rajshahi University of Engineering & Technology<br>
             Rajshahi-6204, Bangladesh
         </td>
@@ -44,10 +44,10 @@
         <tr>
           <th scope="row">###</th>
           <td> 
-            B.Sc. Thesis <br>
+            <strong> B.Sc. Thesis </strong> <br>
             Thesis Title: iML-LysPTM: Identification of Multi-Label<br>
-            Lysine PTM Sites with Feature Optimization and Data Imbalance<br>
-            Minimization <br>
+            Lysine PTM Sites with Feature Optimization and Data<br>
+            Imbalance Minimization <br>
             <a href="BSc-Thesis.pdf" target="_blank">
             Download
             </a>
@@ -133,6 +133,21 @@
     <br><br>
     <h3><strong>Membership and Awards</strong></h3>
 
+    <h4>Sigma Xi: The Scientific Research Honor Society</h4>
+    <p> Member </p>
+    <table class="table">
+      <tbody>
+        <tr class="row">
+        <td class="col-md-2">November 2021 - June 2022</td>
+        <td class="col-md-8">
+            <ul>
+              <li> Maintaining professional networking with the benefit of career resources and recognition. </li>
+            </ul>
+        </td>
+        </tr>
+      </tbody>
+    </table>
+
     <h4>IEEE</h4>
     <p> Student Member </p>
     <table class="table">
@@ -148,20 +163,8 @@
       </tbody>
     </table>
 
-    <h4>Sigma Xi: The Scientific Research Honor Society</h4>
-    <p> Member </p>
-    <table class="table">
-      <tbody>
-        <tr class="row">
-        <td class="col-md-2">November 2021 - June 2022</td>
-        <td class="col-md-8">
-            <ul>
-              <li> Maintaining professional networking with the benefit of career resources and recognition. </li>
-            </ul>
-        </td>
-        </tr>
-      </tbody>
-    </table>
+    <br><br>
+    <h3><strong>Volunteer Experience</strong></h3>
 
     <h4>RUET Career Forum</h4>
     <p> Secretary (IT) </p>
@@ -178,8 +181,7 @@
         </tr>
       </tbody>
     </table>
-    <br><br>
-    <h3><strong>Volunteer Experience</strong></h3>
+
     <h4>YSI Bangladesh</h4>
     <p> Campus Representative </p>
     <table class="table">

@@ -62,10 +62,11 @@
         <div class="card bg-light mb-3" style="max-width: 18rem;">
         <div class="card-body cardHover">
           <h5 class="card-title"><strong> 25+ Projects </strong></h5>
-          <p class="card-text"> Built numerous projects which cover Full Stack Web Development, 
-            Cross-platform Applications, Real-time AI Applications, Data Science, 
-            Image Processing, Containerized RESTfull API, Machine Learning, Docker, iOS App,
-            etc..
+          <p class="card-text"> Built numerous projects which cover Mobile Application Development
+            (Android and iOS), Full Stack Web Development, Cross-platform Applications, Real-time AI
+            Applications, Data Science,
+            Image Processing, Containerized RESTfull API, Machine Learning, Bioinformatics,
+            Computer Vision, etc.
           </p>
         </div>
       </div>
