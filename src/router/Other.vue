@@ -27,7 +27,7 @@
           Rajshahi University of Engineering and Technology<br>
           Rajshahi-6204, Bangladesh<br>
           Postdoctoral Researcher, University of Aizu, Japan<br>
-          Email: <a href = "mailto: mehedi.hasan@cse.ruet.ac.bd">mehedi.hasan@cse.ruet.ac.bd</a>
+          Email: <a href = "mailto: mehedi.hasan@cse.ruet.ac.bd">mehedi.hasan@cse.ruet.ac.bd</a>,
           <a href = "mailto: mehedi_ru@yahoo.com">mehedi_ru@yahoo.com</a><br>
           Phone: +8801712205360
           <br>
@@ -36,7 +36,7 @@
           Professor<br>
           Department of Computer Science and Engineering<br>
           University of Rajshahi, Rajshahi-6205, Bangladesh<br>
-          Email: <a href = "mailto: shamim_cst@ru.ac.bd">shamim_cst@ru.ac.bd</a>
+          Email: <a href = "mailto: shamim_cst@ru.ac.bd">shamim_cst@ru.ac.bd</a>,
           <a href = "mailto: shamim_cst@yahoo.com">shamim_cst@yahoo.com</a><br>
           Phone: +8801713140107<br>
       </div>
