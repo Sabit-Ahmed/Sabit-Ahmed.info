@@ -63,9 +63,9 @@
         <div class="card-body cardHover">
           <h5 class="card-title"><strong> 25+ Projects </strong></h5>
           <p class="card-text"> Built numerous projects which cover Mobile Application Development
-            (Android and iOS), Full Stack Web Development, Cross-platform Applications, Real-time AI
+            (Android and iOS), Full Stack Web Development, Cross-platform and Real-time AI
             Applications, Data Science,
-            Image Processing, Containerized RESTfull API, Machine Learning, Bioinformatics,
+            Image Processing, Containerized API, Machine Learning, Bioinformatics,
             Computer Vision, etc.
           </p>
         </div>
