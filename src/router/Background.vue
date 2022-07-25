@@ -209,11 +209,11 @@
     <table class="table">
       <tbody>
         <tr class="row">
-        <td class="col-md-2">March 2018 - Present</td>
+        <td class="col-md-2">March 2018 - February 2021</td>
         <td class="col-md-8">
             <ul>
               <li> Publicized 3rd and 4th RCF Career Fair as coordinator. </li>
-              <li> About 2+ years of experience in planning, fundraising, publicizing, etc. </li>
+              <li> About 3+ years of experience in planning, fundraising, publicizing, etc. </li>
             </ul>
         </td>
         </tr>
