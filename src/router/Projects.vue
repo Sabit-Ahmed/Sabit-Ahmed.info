@@ -133,7 +133,7 @@
             </li>
           </ul>
         </div>
-
+        <br>
         <li><strong> RNA Modifications Prediction Problems </strong></li>
         <div>
           <strong> Project Details: </strong>
