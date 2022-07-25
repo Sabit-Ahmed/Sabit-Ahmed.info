@@ -1,8 +1,8 @@
 <template>
     <div class="col-md-3 myClass">
       <img src="./images/Sabit.png" class="img-fluid" alt="Responsive image"/>
-        <p> 
-          <strong>SABIT AHMED</strong><br>
+          <h5 class="card-title">SABIT AHMED</h5><br>
+          Bioinformatics and Machine Learning Researcher | AI Engineer (iOS)<br>
           2nd March 1998, Bangladesh<br>
           <strong>Address:</strong> 1/1/B, Jahurabad, Mirpur-1, Dhaka-1216, Bangladesh.<br>
           <strong>Mobile:</strong>	+8801521320850<br>
@@ -32,8 +32,7 @@
           <a href="CV.pdf" target="_blank">
            Download CV
           </a>
-      </p>
-      <p> Last updated on 28 September 2021</p>
+      <p> Last updated on 25 July 2022</p>
     </div>
 </template>
 

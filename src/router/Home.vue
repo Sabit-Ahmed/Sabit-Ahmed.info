@@ -2,39 +2,44 @@
   <div class="col-md-8 myClass">
     <h3><strong>Overview</strong></h3>
     <p>
-    A recently graduated student of Computer Science and Engineering who has conducted researches 
-    on identifying different types of Post-Translational Modifications (PTM). Also Experienced Secretary 
-    with a demonstrated history of working in Nonprofit Organizations. About 2+ years of research 
-    experience in Machine Learning, Bioinformatics, Computational Proteomics, Protein Sequence Analysis, 
-    Feature Engineering, etc. Research interest includes Machine Learning, Data Science, and Artificial 
-    Intelligence. About 1 year of development experience in AI driven Musculoskeletal Health Management 
-    System.
+    An AI enthusiast who has conducted research on Data Mining, Machine Learning, Bioinformatics, Computational Proteomics, Sequence Analysis, and
+    Computer Vision for more than 3 years. Also a successful AI Engineer with 1.5+ years of working experience in one of the leading healthcare companies
+    in the USA. Skilled in Swift, Python, JavaScript, MATLAB programming languages and Mobile Development (iOS, Android and cross-platform), Web
+    Development platform.
     </p>
     <br>
     <h4><strong> Featured Skills </strong></h4>
-    <strong> Mobile Application Development </strong>
+    <strong> Data Mining </strong>
     <div class="progress myIcon-space">
-      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
     </div>
-    <strong> Web Development </strong>
+    <strong> Machine Learning </strong>
     <div class="progress myIcon-space">
       <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
     </div>
-    <strong> Data Science </strong>
+    <strong> Deep Learning </strong>
     <div class="progress myIcon-space">
-      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 60%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
+    <strong> Feature Engineering </strong>
+    <div class="progress myIcon-space">
+      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 95%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
     </div>
     <strong> Bioinformatics </strong>
     <div class="progress myIcon-space">
       <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
     </div>
-    <strong> Team Player </strong>
+    <strong> Computer Vision </strong>
+    <div class="progress myIcon-space">
+      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 55%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
+    <strong> Natural Language Processing </strong>
+    <div class="progress myIcon-space">
+      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 65%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
+    <strong> Software Engineering (iOS) </strong>
     <div class="progress myIcon-space">
       <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-    </div>
-    <strong> Analytical Skill </strong>
-    <div class="progress myIcon-space">
-      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 100%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
     </div>
     <br>
     
@@ -48,11 +53,9 @@
       <div class="card bg-light mb-3" style="max-width: 18rem;">
       <div class="card-body cardHover">
         <h5 class="card-title"><strong> Career Summary </strong></h5>
-        <p class="card-text"> Parallel to the academic study, an active researcher and a 
-          committed apprentice who is currently mastering on Data Science and DevOps Concepts. Has
-          demonstrated organizing and managing experience. Also, has about 2+ years 
-          of research and 1 year of 
-          development experiences.
+        <p class="card-text"> An active researcher and reviewer in the field of Machine Learning and Bioinformatics.
+          Has about 3+ years of research experience along with 1.5+ year of software engineering experience. Also,
+          has demonstrated organizing and managing experience with team playing ability.
         </p>
       </div>
       </div>
@@ -65,12 +68,11 @@
       >
         <div class="card bg-light mb-3" style="max-width: 18rem;">
         <div class="card-body cardHover">
-          <h5 class="card-title"><strong> 30+ Projects </strong></h5>
-          <p class="card-text"> Built numerous projects which cover Mobile Application Development
-            (Android and iOS), Full Stack Web Development, Cross-platform and Real-time AI
-            Applications, Data Science,
-            Image Processing, Containerized API, Machine Learning, Bioinformatics,
-            Computer Vision.
+          <h5 class="card-title"><strong> 50+ Projects </strong></h5>
+          <p class="card-text"> Built numerous projects which cover Data Science, Machine Learning, Deep Learning,
+            Bioinformatics, Computer Vision, Natural Language Processing, Software Engineering, Mobile Application
+            Development (Android and iOS), Full Stack Web Development, Cross-platform and Real-time AI Applications,
+            Containerized API etc.
           </p>
         </div>
       </div>
