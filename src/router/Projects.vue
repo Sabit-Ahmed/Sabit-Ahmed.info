@@ -83,39 +83,74 @@
     <div>
       <h4> Research Projects: </h4>
       <ul>
-        <li><strong> Post-Translational Modifications </strong></li>
+        <li><strong> Protein's Post-Translational Modifications Prediction </strong></li>
         <div>
           <strong> Project Details: </strong>
-          This project aims to identify protein's post-translational modifications both individually and
-          simultaneously with higher efficacy. We have developed three single label predictors such as
-          Formyl_Pred, predPhogly-Site, and PredNitro which correspond to Formylation, Phosphoglycerylation,
-          and Nitrotyrosine sites prediction separately, and two multi-label predictors, such as,
-          predML-Site, and iMul-kSite for predicting Acetylation, Crotonylation, Methylation, Succinylation,
-          and glutarylation sites simultaneously. More information could be found in the publications section.
+          <ul>
+            <li>
+              Developed 3 single label predictors, such as Formyl_Pred, predPhogly-Site, and PredNitro which correspond
+              to 3 types of protein modifications (i.e. Formylation, Phosphoglycerylation, and Nitrotyrosine sites) prediction
+              individually.
+            </li>
+            <li>
+              Constructed 2 multi-label predictors predML-Site, and iMul-kSite for predicting 5 types of protein
+              modifications, such as Acetylation, Crotonylation, Methylation, Succinylation, and Glutarylation sites
+              simultaneously.
+            </li>
+            <li>
+              Currently working on NLP models (i.e. Word2Vec, Glove, BERT, ProteinBERT etc.) to perform sequence
+              analysis and protein modification identification. Our most recently developed model name is predGlutBERT
+              where we have utilized pretrained BERT model to predict Glutarylation modification.
+            </li>
+          </ul>
           <br>
           <strong> Timeline: </strong> August 2019 – Present.<br>
           <strong> Language and Tools: </strong> MATLAB, Python, Scikit-learn, Django, HTML, and CSS.<br>
-          <strong> Web-Servers: </strong>
+          <strong> List of prediction tools: </strong>
           <ul>
             <li>
-              <strong> predML-Site: </strong>
-              <a href="http://103.99.176.239/predML-Site">http://103.99.176.239/predML-Site</a>
+              <strong> predML-Site: (Identifying Multiple Lysine PTM Sites Simultaneously) </strong>
             </li>
             <li>
-              <strong> predPhogly-Site: </strong>
-              <a href="http://103.99.176.239/predML-Site">http://103.99.176.239/predPhogly-Site</a>
+              <strong> predPhogly-Site: (Predicting Phosphoglycerylation Sites) </strong><br>
+              <a href="https://github.com/Sabit-Ahmed/iMul-kSite">source-code</a>
             </li>
             <li>
-              <strong> iMul-kSite: </strong>
-              <a href="http://103.99.176.239/iMul-kSite">http://103.99.176.239/iMul-kSite</a>
+              <strong> iMul-kSite: (Simultaneous identification of multiple lysine PTM (k-PTM) sites) </strong>
+              <a href="http://103.99.176.239/iMul-kSite">source-code</a>
             </li>
             <li>
-              <strong> PredNitro: </strong>
-              <a href="http://103.99.176.239/PredNitro">http://103.99.176.239/PredNitro</a>
+              <strong> PredNitro: (Accurately Predicting Nitrosylated Tyrosine Sites) </strong>
+              <a href="http://103.99.176.239/PredNitro">source-code</a>
+            </li>
+            <li>
+              <strong> predGlutBERT: (Predicting Glutarylation Sites Using Pretrained BERT Language Model) </strong>
+              <a href="https://github.com/Sabit-Ahmed/predGlutBert">source-code</a>
             </li>
             <li>
               <strong> ResearchGate: </strong>
               <a href="https://www.researchgate.net/project/Post-translational-Modifications">https://www.researchgate.net/project/Post-translational-Modifications</a>
+            </li>
+          </ul>
+        </div>
+
+        <li><strong> RNA Modifications Prediction Problems </strong></li>
+        <div>
+          <strong> Project Details: </strong>
+          The aim of this project is to perform extensive research on different types of RNA modification sites with the help of machine learning and deep
+          learning techniques.
+          <br>
+          <strong> Timeline: </strong> May 2022 – Present.<br>
+          <strong> Language and Tools: </strong> MATLAB, Python, Scikit-learn, Django, HTML, and CSS.<br>
+          <strong> List of prediction tools: </strong>
+          <ul>
+            <li>
+              <strong> DeepR5hmC: (Deep Learning in RNA 5-Hydroxymethylcytosine Prediction) </strong>
+              <a href="https://github.com/Sabit-Ahmed/DeepR5hmc">source-code</a>
+            </li>
+            <li>
+              <strong> ResearchGate: </strong>
+              <a href="https://www.researchgate.net/project/RNA-Modifications-Prediction-Problems">https://www.researchgate.net/project/RNA-Modifications-Prediction-Problems</a>
             </li>
           </ul>
         </div>

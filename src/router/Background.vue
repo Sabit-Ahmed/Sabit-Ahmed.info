@@ -64,7 +64,7 @@
 
     <h4>Machine Learning Research Group</h4>
     <p>Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh</p>
-    <strong> Researcher </strong>
+    <strong> Researcher (H-Index: 3) </strong>
     <table class="table">
       <tbody>
       <tr class="row">
