@@ -31,6 +31,10 @@
       <a href="CV.pdf" target="_blank">
         Download CV
       </a>
+      <br>
+      <a href="Publications.pdf" target="_blank">
+        Download Publications
+      </a>
       <p> Last updated on 25 July 2022</p>
     </div>
 </template>
