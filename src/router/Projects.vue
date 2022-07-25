@@ -42,12 +42,26 @@
           single shot detector (SSD) models have been combined and trained via transfer learning. Combination of COCO Hand,
           TV-Hand, and Ego-Hand datasets has been used to train the model.
           <br>
-          <strong> Timeline: </strong> September 2021 – December 2021.<br>
+          <strong> Timeline: </strong> June 2022 – July 2021.<br>
           <strong> Language and Tools: </strong> Kotlin, Android Studio, Mediapipe, ML-Kit, etc.<br>
           <strong> GitHub Repository: </strong>
           <a href="https://github.com/Sabit-Ahmed/HandDetection">https://github.com/Sabit-Ahmed/HandDetection</a>
           <br>
           <a href="https://drive.google.com/file/d/1d0i8vLZllN5gQmqPBxgJaNx2EDDEYyea/view?usp=sharing" target="_blank"><strong> See Demo </strong></a>
+        </div>
+        <br>
+        <li><strong> Gesture Recognition (iOS) </strong></li>
+        <div>
+          <strong> Project Details: </strong>
+          This is the implementation of Hand Pose Estimation using iOS Vision Framework.
+          The app fetches image from the front facing camera and perform hand pose estimation at ~18-20 FPS.
+          <br>
+          <strong> Timeline: </strong> June 2022 – July 2022.<br>
+          <strong> Language and Tools: </strong> Swift, XCode, Apple's Vision Framework etc.<br>
+          <strong> GitHub Repository: </strong>
+          <a href="https://github.com/Sabit-Ahmed/iOSHandPoseAndGestureDetection">https://github.com/Sabit-Ahmed/iOSHandPoseAndGestureDetection</a>
+          <br>
+          <a href="https://drive.google.com/file/d/1xKmGR5wnFRr4EvnOKjTiZmWi-zj3OCwv/view?usp=sharing" target="_blank"><strong> See Demo </strong></a>
         </div>
       </ul>
     </div>
