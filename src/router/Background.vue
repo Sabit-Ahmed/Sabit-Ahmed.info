@@ -77,7 +77,7 @@
           </ul>
         </td>
       </tr>
-      <tr>
+      <tr class="row">
         <td class="col-md-2">Skills acquired: </td>
         <td class="col-md-8">
           Artificial Intelligence (AI) · Machine Learning · Python (Programming Language) · Bioinformatics · Computer Vision
@@ -105,7 +105,7 @@
     <br> <br>
 
     <h3><strong>Professional Background</strong></h3>
-    <h4>MyMedicalHub</h4>
+    <h4>MyMedicalHUB</h4>
     <p> AI Engineer (iOS) </p>
     <table class="table">
       <tbody>
