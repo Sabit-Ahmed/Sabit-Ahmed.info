@@ -71,7 +71,7 @@
           <h5 class="card-title"><strong> 50+ Projects </strong></h5>
           <p class="card-text"> Built numerous projects which cover Data Science, Machine Learning, Deep Learning,
             Bioinformatics, Computer Vision, Natural Language Processing, Software Engineering, Mobile Application
-            Development, Full Stack Web Development, Cross-platform and Real-time AI Applications, etc.
+            Development, Full Stack Web Development, Real-time AI Applications, etc.
           </p>
         </div>
       </div>
