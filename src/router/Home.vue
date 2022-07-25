@@ -11,11 +11,11 @@
     <h4><strong> Featured Skills </strong></h4>
     <strong> Data Mining </strong>
     <div class="progress myIcon-space">
-      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 75%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
     </div>
     <strong> Machine Learning </strong>
     <div class="progress myIcon-space">
-      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+      <div class="progress-bar bg-success myIcon" role="progressbar" style="width: 85%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
     </div>
     <strong> Deep Learning </strong>
     <div class="progress myIcon-space">

@@ -53,12 +53,12 @@
         <br>
         <li>
             Rahman, Afrida, Sabit Ahmed, Md Al Mehedi Hasan, and Shamim Ahmad, and Abdollah Dehzangi. 
-            "Accurately Predicting Nitrosylated Tyrosine Sites Using probabilistic sequence information."<br>
+            "Accurately Predicting Nitrosylated Tyrosine Sites Using probabilistic sequence information." Gene - Elsevier (March 28,
+            2022), doi: https://doi.org/10.1016/j.gene.2022.146445<br>
             <strong> Journal Title: </strong>Gene - Elsevier (Impact Factor: 3.688)<br>
-            <strong> Status: </strong> Under Revision <br>
-            <!-- <strong> Date of Publication: </strong>01 April 2021.<br> 
-            <strong> DOI: </strong><a href="https://doi.org/10.1371/journal.pone.0249396">10.1371/journal.pone.0249396</a> <br>
-            <strong> Source-Code: </strong><a href="https://github.com/Sabit-Ahmed/predPhogly-Site">https://github.com/Sabit-Ahmed/predPhogly-Site</a><br> -->
+            <strong> Date of Publication: </strong>28 March 2022.<br>
+            <strong> DOI: </strong><a href="https://doi.org/10.1016/j.gene.2022.146445">10.1016/j.gene.2022.146445</a> <br>
+            <strong> Source-Code: </strong><a href="https://github.com/Sabit-Ahmed/PredNitro">https://github.com/Sabit-Ahmed/PredNitro</a><br>
             <strong> Web-Server: </strong><a href="http://103.99.176.239/PredNitro">http://103.99.176.239/PredNitro.</a>
         </li>
     </ul>
