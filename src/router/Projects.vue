@@ -31,6 +31,7 @@
           <strong> Language and Tools: </strong> Kotlin, Android Studio, Mediapipe, ML-Kit, etc.<br>
           <strong> GitHub Repository: </strong>
           <a href="https://github.com/Sabit-Ahmed/virtual-fitness-instructor">https://github.com/Sabit-Ahmed/virtual-fitness-instructor</a>
+          <br>
           <a href="https://drive.google.com/file/d/1CT8Fc_d48HQsnx7SJ6JqWX1O87Xyzp7k/view" target="_blank"><strong> See Demo </strong></a>
         </div>
         <br>
@@ -45,6 +46,7 @@
           <strong> Language and Tools: </strong> Kotlin, Android Studio, Mediapipe, ML-Kit, etc.<br>
           <strong> GitHub Repository: </strong>
           <a href="https://github.com/Sabit-Ahmed/HandDetection">https://github.com/Sabit-Ahmed/HandDetection</a>
+          <br>
           <a href="https://drive.google.com/file/d/1d0i8vLZllN5gQmqPBxgJaNx2EDDEYyea/view?usp=sharing" target="_blank"><strong> See Demo </strong></a>
         </div>
       </ul>
