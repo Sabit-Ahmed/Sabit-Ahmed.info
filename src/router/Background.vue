@@ -63,8 +63,8 @@
     <h3><strong>Research Experience</strong></h3>
 
     <h4>Machine Learning Research Group</h4>
-    <strong>Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh</strong>
-    <p> Researcher </p>
+    <p>Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh</p>
+    <strong> Researcher </strong>
     <table class="table">
       <tbody>
       <tr class="row">
@@ -89,8 +89,8 @@
     </table>
 
     <h4>Briefings in Bioinformatics</h4>
-    <strong>Oxford Academic</strong>
-    <p> Reviewer </p>
+    <p>Oxford Academic</p>
+    <strong> Reviewer </strong>
     <table class="table">
       <tbody>
       <tr class="row">
@@ -106,8 +106,8 @@
     <br> <br>
     <h3><strong>Professional Background</strong></h3>
     <h4>MyMedicalHUB Bangladesh</h4>
-    <strong>Headquater: 13220 McCormick Drive, Tampa, FL 33626, United States</strong>
-    <p> AI Engineer (iOS) </p>
+    <p>Headquater: 13220 McCormick Drive, Tampa, FL 33626, United States</p>
+    <strong> AI Engineer (iOS) </strong>
     <table class="table">
       <tbody>
         <tr class="row">
@@ -118,25 +118,30 @@
               <li> Getting introduced to musculoskeletal health solutions.</li>
             </ul>
         </td>
-          <td class="col-md-8">
-            <strong>Details:</strong>
-            <p>
-              MyMedicalHUB is one of the leading AI based healthcare companies in USA. Here, I am currently working on building
-              AI coach for patients who have musculoskeletal issues. I have developed a fully-functional mobile application, AI Coach
-              (Virtual Therapist) from scratch to aid patients to perform and track exercise movements without any human interaction.
-              Also, I have used Computer Vision techniques with necessary voice commands to guide a patient while doing real-time exercises.
-              This application is the world’s first-ever built AI-based musculoskeletal health management application and it is expected
-              to be used by approximately 1 million potential patients across the USA.
-            </p>
-            <p><strong>Preview: </strong><a href="https://drive.google.com/file/d/1fge5FFAuyR7shyp7ZTsiE7K4ZPKXOKnf/view">AI COACH (iOS)</a></p>
-          </td>
         </tr>
+      <tr class="row">
+        <td class="col-md-2"><strong>Details:</strong></td>
+        <td class="col-md-8">
+            MyMedicalHUB is one of the leading AI based healthcare companies in USA. Here, I am currently working on building
+            AI coach for patients who have musculoskeletal issues. I have developed a fully-functional mobile application, AI Coach
+            (Virtual Therapist) from scratch to aid patients to perform and track exercise movements without any human interaction.
+            Also, I have used Computer Vision techniques with necessary voice commands to guide a patient while doing real-time exercises.
+            This application is the world’s first-ever built AI-based musculoskeletal health management application and it is expected
+            to be used by approximately 1 million potential patients across the USA.
+        </td>
+      </tr>
+      <tr class="row">
+        <td class="col-md-2"><strong>Preview:</strong></td>
+        <td class="col-md-8">
+            <a href="https://drive.google.com/file/d/1fge5FFAuyR7shyp7ZTsiE7K4ZPKXOKnf/view">AI COACH (iOS)</a>
+        </td>
+      </tr>
       </tbody>
     </table>
 
     <h4>Banglamedic</h4>
-    <strong>Dhaka, Bangladesh</strong>
-    <p> Intern </p>
+    <p>Dhaka, Bangladesh</p>
+    <strong> Intern </strong>
     <table class="table">
       <tbody>
         <tr class="row">
@@ -153,8 +158,8 @@
     </table>
 
     <h4>iNeuron</h4>
-    <strong>Bengaluru, Karnataka 562129, India</strong>
-    <p> Trainee </p>
+    <p>Bengaluru, Karnataka 562129, India</p>
+    <strong> Trainee </strong>
     <table class="table">
       <tbody>
         <tr class="row">
