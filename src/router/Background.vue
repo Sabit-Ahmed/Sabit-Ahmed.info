@@ -60,6 +60,50 @@
 
     <br><br>
 
+    <h3><strong>Research Experience</strong></h3>
+
+    <h4>Machine Learning Research Group</h4>
+    <p> Researcher </p>
+    <table class="table">
+      <tbody>
+      <tr class="row">
+        <td class="col-md-2">August 2019 - Present</td>
+        <td class="col-md-8">
+          <ul>
+            <li> Pursuing researches on  Data Mining, Machine Learning, Bioinformatics, Natural Language Processing and
+              Computer Vision. </li>
+            <li> Ongoing research project: Prediction of RNA modifications, Protein's Post-Translational Modifications. </li>
+            <li> 1 accepted conference paper and 4 journal articles. </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="col-md-2">Skills acquired: </td>
+        <td class="col-md-8">
+          Artificial Intelligence (AI) · Machine Learning · Python (Programming Language) · Bioinformatics · Computer Vision
+          · Deep Learning · NumPy · Pandas (Software) · MATLAB
+        </td>
+      </tr>
+      </tbody>
+    </table>
+
+    <h4>Briefings in Bioinformatics (Impact Factor: 11.62)</h4>
+    <p> Reviewer </p>
+    <table class="table">
+      <tbody>
+      <tr class="row">
+        <td class="col-md-2">June 2022 - Present</td>
+        <td class="col-md-8">
+          <ul>
+            <li> Review state-of-art studies in Bioinformatics.</li>
+          </ul>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+
+    <br> <br>
+
     <h3><strong>Professional Background</strong></h3>
     <h4>MyMedicalHub</h4>
     <p> AI Engineer (iOS) </p>
@@ -119,47 +163,6 @@
             </ul>
         </td>
         </tr>
-      </tbody>
-    </table>
-
-    <br><br>
-    <h3><strong>Research Experience</strong></h3>
-
-    <h4>Machine Learning Research Group</h4>
-    <p> Researcher </p>
-    <table class="table">
-      <tbody>
-        <tr class="row">
-        <td class="col-md-2">August 2019 - Present</td>
-        <td class="col-md-8">
-            <ul>
-              <li> Pursuing researches on  Data Mining, Machine Learning, Bioinformatics, Natural Language Processing and
-                Computer Vision. </li>
-              <li> Ongoing research project: Prediction of RNA modifications, Protein's Post-Translational Modifications. </li>
-              <li> 1 accepted conference paper and 4 journal articles. </li>
-            </ul>
-        </td>
-          <td class="col-md-2">Skills acquired: </td>
-          <td class="col-md-8">
-            Artificial Intelligence (AI) · Machine Learning · Python (Programming Language) · Bioinformatics · Computer Vision
-            · Deep Learning · NumPy · Pandas (Software) · MATLAB
-          </td>
-        </tr>
-      </tbody>
-    </table>
-
-    <h4>Briefings in Bioinformatics (Impact Factor: 11.62)</h4>
-    <p> Reviewer </p>
-    <table class="table">
-      <tbody>
-      <tr class="row">
-        <td class="col-md-2">June 2022 - Present</td>
-        <td class="col-md-8">
-          <ul>
-            <li> Review state-of-art studies in Bioinformatics.</li>
-          </ul>
-        </td>
-      </tr>
       </tbody>
     </table>
 
