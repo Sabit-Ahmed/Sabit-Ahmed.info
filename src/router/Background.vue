@@ -62,7 +62,7 @@
 
     <h3><strong>Professional Background</strong></h3>
     <h4>MyMedicalHub</h4>
-    <p> Jr. AI Developer </p>
+    <p> AI Engineer (iOS) </p>
     <table class="table">
       <tbody>
         <tr class="row">
@@ -73,6 +73,18 @@
               <li> Getting introduced to musculoskeletal health solutions.</li>
             </ul>
         </td>
+          <td class="col-md-8">
+            <strong>Details:</strong>
+            <p>
+              MyMedicalHUB is one of the leading AI based healthcare companies in USA. Here, I am currently working on building
+              AI coach for patients who have musculoskeletal issues. I have developed a fully-functional mobile application, AI Coach
+              (Virtual Therapist) from scratch to aid patients to perform and track exercise movements without any human interaction.
+              Also, I have used Computer Vision techniques with necessary voice commands to guide a patient while doing real-time exercises.
+              This application is the world’s first-ever built AI-based musculoskeletal health management application and it is expected
+              to be used by approximately 1 million potential patients across the USA.
+            </p>
+            <p><strong>Preview: </strong><a href="https://drive.google.com/file/d/1fge5FFAuyR7shyp7ZTsiE7K4ZPKXOKnf/view">AI COACH (iOS)</a></p>
+          </td>
         </tr>
       </tbody>
     </table>
