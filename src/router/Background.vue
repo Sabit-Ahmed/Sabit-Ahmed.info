@@ -63,6 +63,7 @@
     <h3><strong>Research Experience</strong></h3>
 
     <h4>Machine Learning Research Group</h4>
+    <h5>Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh</h5>
     <p> Researcher </p>
     <table class="table">
       <tbody>
@@ -101,11 +102,10 @@
       </tr>
       </tbody>
     </table>
-
     <br> <br>
-
     <h3><strong>Professional Background</strong></h3>
-    <h4>MyMedicalHUB</h4>
+    <h4>MyMedicalHUB Bangladesh</h4>
+    <h5>Headquater: 13220 McCormick Drive, Tampa, FL 33626, United States</h5>
     <p> AI Engineer (iOS) </p>
     <table class="table">
       <tbody>
@@ -134,6 +134,7 @@
     </table>
 
     <h4>Banglamedic</h4>
+    <h5>Dhaka, Bangladesh</h5>
     <p> Intern </p>
     <table class="table">
       <tbody>
@@ -151,6 +152,7 @@
     </table>
 
     <h4>iNeuron</h4>
+    <h5>Bengaluru, Karnataka 562129, India</h5>
     <p> Trainee </p>
     <table class="table">
       <tbody>
