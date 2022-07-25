@@ -20,9 +20,9 @@
             Ahmed, Sabit, Afrida Rahman, Md. Al Mehedi Hasan, Sahmim Ahmad, and S. M. Shovan. "Computational identification of multiple lysine PTM sites by analyzing the instance 
             hardness and feature importance." Sci Rep. 2021;11(1):18882. Published 2021 Sep 23. 
             doi:10.1038/s41598-021-98458-y<br>
-            <strong> Journal Title: </strong>Scientific Reports - Nature (Impact Factor: 5.133)<br>
+            <strong> Journal Title: </strong>Scientific Reports - Nature <strong>(Impact Factor: 5.133)</strong><br>
             <strong> Date of Publication: </strong>23 September 2021.<br>
-            <strong> DOI: </strong> <a href="https://doi.org/10.1038/s41598-021-98458-y">https://doi.org/10.1038/s41598-021-98458-y</a>
+            <strong> DOI: </strong> <a href="https://doi.org/10.1038/s41598-021-98458-y">https://doi.org/10.1038/s41598-021-98458-y</a><br>
             <strong> Source-Code: </strong><a href="https://github.com/Sabit-Ahmed/iMul-kSite">https://github.com/Sabit-Ahmed/iMul-kSite</a><br>
             <strong> Web-Server: </strong><a href="http://103.99.176.239/iMul-kSite">http://103.99.176.239/iMul-kSite.</a>
         </li>
@@ -33,7 +33,7 @@
             and Data Imbalance Minimization," in IEEE/ACM Transactions on Computational Biology and 
             Bioinformatics, doi: 10.1109/TCBB.2021.3114349.<br>
             <strong> Journal Title: </strong>IEEE/ACM Transactions on Computational Biology and 
-            Bioinformatics (I.F.: 3.015)<br>
+            Bioinformatics <strong>(Impact Factor: 3.015)</strong><br>
             <strong> Date of Publication: </strong>21 September 2021.<br>
             <strong> DOI: </strong> <a href="https://doi.org/10.1109/TCBB.2021.3114349">https://doi.org/10.1109/TCBB.2021.3114349</a><br>
             <strong> Web-Server: </strong><a href="http://103.99.176.239/predML-Site">http://103.99.176.239/predML-Site.</a>
@@ -44,7 +44,7 @@
             “predPhogly-Site: Predicting Phosphoglycerylation Sites by Incorporating Probabilistic Sequence-Coupling 
             Information into PseAAC and Addressing Data Imbalance.” Edited by Ozlem Keskin. PLOS ONE 16, no. 4 
             (April 1, 2021): e0249396. doi:10.1371/journal.pone.0249396.<br>
-            <strong> Journal Title: </strong>PLOS ONE (I.F.: 3.24)<br>
+          <strong> Journal Title: </strong>PLOS ONE <strong>(Impact Factor: 3.24)</strong><br>
             <strong> Date of Publication: </strong>01 April 2021.<br>
             <strong> DOI: </strong><a href="https://doi.org/10.1371/journal.pone.0249396">10.1371/journal.pone.0249396</a> <br>
             <strong> Source-Code: </strong><a href="https://github.com/Sabit-Ahmed/predPhogly-Site">https://github.com/Sabit-Ahmed/predPhogly-Site</a><br>
@@ -55,7 +55,7 @@
             Rahman, Afrida, Sabit Ahmed, Md Al Mehedi Hasan, and Shamim Ahmad, and Abdollah Dehzangi. 
             "Accurately Predicting Nitrosylated Tyrosine Sites Using probabilistic sequence information." Gene - Elsevier (March 28,
             2022), doi: https://doi.org/10.1016/j.gene.2022.146445<br>
-            <strong> Journal Title: </strong>Gene - Elsevier (Impact Factor: 3.688)<br>
+            <strong> Journal Title: </strong>Gene - Elsevier <strong>(Impact Factor: 3.688)</strong><br>
             <strong> Date of Publication: </strong>28 March 2022.<br>
             <strong> DOI: </strong><a href="https://doi.org/10.1016/j.gene.2022.146445">10.1016/j.gene.2022.146445</a> <br>
             <strong> Source-Code: </strong><a href="https://github.com/Sabit-Ahmed/PredNitro">https://github.com/Sabit-Ahmed/PredNitro</a><br>

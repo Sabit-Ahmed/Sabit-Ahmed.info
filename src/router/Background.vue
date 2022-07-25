@@ -97,8 +97,8 @@
         <td class="col-md-2"> October 2020 </td>
         <td class="col-md-8">
             <ul>
-              <li> Working on data collecting and preprocessing tasks. </li>
-              <li> Getting introduced to DevOps concepts, containerization of CRUD applications, 
+              <li> Worked on data collecting and preprocessing tasks. </li>
+              <li> Got introduced to DevOps concepts, containerization of CRUD applications,
                 and deploying these on the cloud with the help of Docker and Kubernetes.</li>
             </ul>
         </td>
@@ -114,7 +114,7 @@
         <td class="col-md-2">June 2020 - September 2020</td>
         <td class="col-md-8">
             <ul>
-              <li> Mastering python core, data visualization, rest API, statistics, exploratory data analysis, 
+              <li> Mastered python core, data visualization, rest API, statistics, exploratory data analysis,
                 machine learning model development with end to end deployment. </li>
             </ul>
         </td>
@@ -133,12 +133,33 @@
         <td class="col-md-2">August 2019 - Present</td>
         <td class="col-md-8">
             <ul>
-              <li> Pursuing researches on Computational Proteomics. </li>
-              <li> Ongoing research project: Post-Translational Modifications. </li>
+              <li> Pursuing researches on  Data Mining, Machine Learning, Bioinformatics, Natural Language Processing and
+                Computer Vision. </li>
+              <li> Ongoing research project: Prediction of RNA modifications, Protein's Post-Translational Modifications. </li>
               <li> 1 accepted conference paper and 4 journal articles. </li>
             </ul>
         </td>
+          <td class="col-md-2">Skills acquired: </td>
+          <td class="col-md-8">
+            Artificial Intelligence (AI) · Machine Learning · Python (Programming Language) · Bioinformatics · Computer Vision
+            · Deep Learning · NumPy · Pandas (Software) · MATLAB
+          </td>
         </tr>
+      </tbody>
+    </table>
+
+    <h4>Briefings in Bioinformatics (Impact Factor: 11.62)</h4>
+    <p> Reviewer </p>
+    <table class="table">
+      <tbody>
+      <tr class="row">
+        <td class="col-md-2">June 2022 - Present</td>
+        <td class="col-md-8">
+          <ul>
+            <li> Review state-of-art studies in Bioinformatics.</li>
+          </ul>
+        </td>
+      </tr>
       </tbody>
     </table>
 
