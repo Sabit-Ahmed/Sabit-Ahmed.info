@@ -126,7 +126,7 @@
     <h3><strong>Research Experience</strong></h3>
 
     <h4>Machine Learning Research Group</h4>
-    <p> Research Candidate </p>
+    <p> Researcher </p>
     <table class="table">
       <tbody>
         <tr class="row">
