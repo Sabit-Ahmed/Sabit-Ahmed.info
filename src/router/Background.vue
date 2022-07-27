@@ -38,7 +38,7 @@
             Rajshahi University of Engineering & Technology<br>
             Rajshahi-6204, Bangladesh
         </td>
-        <td> First Class (Achieved ~70% marks in four year of study) </td>
+        <td> First Class (Achieved ~70% marks in four years of study) </td>
         <td>2015 - 2021</td>
         </tr>
         <tr>
