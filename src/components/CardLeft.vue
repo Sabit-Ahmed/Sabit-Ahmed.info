@@ -1,6 +1,6 @@
 <template>
     <div class="col-md-3 myClass">
-      <img src="./images/Sabit.png" class="img-fluid" alt="Responsive image"/>
+      <img src="./images/Sabit.jpg" class="img-fluid" alt="Responsive image"/>
       <h5>SABIT AHMED</h5>
       AI Engineer (iOS) | Bioinformatics and Machine Learning Researcher<br>
       <strong>Address:</strong> 1/1/B, Jahurabad, Mirpur-1, Dhaka-1216, Bangladesh.<br>
