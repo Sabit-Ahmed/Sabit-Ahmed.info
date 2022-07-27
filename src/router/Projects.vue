@@ -24,7 +24,7 @@
         <div>
           <strong> Project Details: </strong>
           I have built the android version of AI COACH to implement the functionality of range-of-motion (ROM) of a person.
-          Here, Background Segmentation model has been used to calculate the virtual heights and widths of different body parts,
+          Here, the Background Segmentation model has been used to calculate the virtual heights and widths of different body parts,
           such as, shoulder to shoulder distance, toe to head distances, etc.
           <br>
           <strong> Timeline: </strong> September 2021 – December 2021.<br>
