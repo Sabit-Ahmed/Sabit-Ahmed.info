@@ -12,7 +12,7 @@
           I have built this application from scratch and worked on a range of different sub-projects, i.e. Design UI, Handle
           API call, Design app flow, Manage software architecture (MVVM), Deploy Pose Detection models, develop and deploy
           Gesture Recognition models, Real-time Frame Processing, Implement graphical objects (i.e. angle, distance, texts, etc.)
-          based on the real-time movements of a person, Manage AI COACH app in Apple's TestFlight.
+          based on the real-time movements of a person, Manage AI COACH app in Apple's TestFlight, etc.
           <br>
           <strong> Demo</strong>
           <strong> Timeline: </strong> January 2022 – Present.<br>
