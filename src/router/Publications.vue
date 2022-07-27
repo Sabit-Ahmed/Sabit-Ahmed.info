@@ -33,7 +33,7 @@
             and Data Imbalance Minimization," in IEEE/ACM Transactions on Computational Biology and 
             Bioinformatics, doi: 10.1109/TCBB.2021.3114349.<br>
             <strong> Journal Title: </strong>IEEE/ACM Transactions on Computational Biology and 
-            Bioinformatics <strong>(Impact Factor: 3.015)</strong><br>
+            Bioinformatics <strong>(Impact Factor: 3.71)</strong><br>
             <strong> Date of Publication: </strong>21 September 2021.<br>
             <strong> DOI: </strong> <a href="https://doi.org/10.1109/TCBB.2021.3114349">https://doi.org/10.1109/TCBB.2021.3114349</a><br>
             <strong> Web-Server: </strong><a href="http://103.99.176.239/predML-Site">http://103.99.176.239/predML-Site.</a>
@@ -44,7 +44,7 @@
             “predPhogly-Site: Predicting Phosphoglycerylation Sites by Incorporating Probabilistic Sequence-Coupling 
             Information into PseAAC and Addressing Data Imbalance.” Edited by Ozlem Keskin. PLOS ONE 16, no. 4 
             (April 1, 2021): e0249396. doi:10.1371/journal.pone.0249396.<br>
-          <strong> Journal Title: </strong>PLOS ONE <strong>(Impact Factor: 3.24)</strong><br>
+          <strong> Journal Title: </strong>PLOS ONE <strong>(Impact Factor: 3.752)</strong><br>
             <strong> Date of Publication: </strong>01 April 2021.<br>
             <strong> DOI: </strong><a href="https://doi.org/10.1371/journal.pone.0249396">10.1371/journal.pone.0249396</a> <br>
             <strong> Source-Code: </strong><a href="https://github.com/Sabit-Ahmed/predPhogly-Site">https://github.com/Sabit-Ahmed/predPhogly-Site</a><br>
@@ -55,7 +55,7 @@
             Rahman, Afrida, Sabit Ahmed, Md Al Mehedi Hasan, and Shamim Ahmad, and Abdollah Dehzangi. 
             "Accurately Predicting Nitrosylated Tyrosine Sites Using probabilistic sequence information." Gene - Elsevier (March 28,
             2022), doi: https://doi.org/10.1016/j.gene.2022.146445<br>
-            <strong> Journal Title: </strong>Gene - Elsevier <strong>(Impact Factor: 3.688)</strong><br>
+            <strong> Journal Title: </strong>Gene - Elsevier <strong>(Impact Factor: 3.913)</strong><br>
             <strong> Date of Publication: </strong>28 March 2022.<br>
             <strong> DOI: </strong><a href="https://doi.org/10.1016/j.gene.2022.146445">10.1016/j.gene.2022.146445</a> <br>
             <strong> Source-Code: </strong><a href="https://github.com/Sabit-Ahmed/PredNitro">https://github.com/Sabit-Ahmed/PredNitro</a><br>

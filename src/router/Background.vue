@@ -38,7 +38,7 @@
             Rajshahi University of Engineering & Technology<br>
             Rajshahi-6204, Bangladesh
         </td>
-        <td> First Class </td>
+        <td> First Class (Achieved ~70% marks in four year of study) </td>
         <td>2015 - 2021</td>
         </tr>
         <tr>
@@ -90,7 +90,7 @@
 
     <h4>Briefings in Bioinformatics</h4>
     <p>Oxford Academic</p>
-    <strong> Reviewer </strong>
+    <strong> Reviewer (Volunteered) </strong>
     <table class="table">
       <tbody>
       <tr class="row">
@@ -178,7 +178,7 @@
     <h3><strong>Membership and Awards</strong></h3>
 
     <h4>Sigma Xi: The Scientific Research Honor Society</h4>
-    <p> Member </p>
+    <p> Full Member </p>
     <table class="table">
       <tbody>
         <tr class="row">
